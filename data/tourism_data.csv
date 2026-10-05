@@ -1,0 +1,1001 @@
+Booking_ID,Date,Destination,State,Destination_Type,Visitor_Origin,Travelers,Nights,Accommodation,Transport,Package,Revenue,Rating,Status
+1,2025-04-01,Manali,Himachal Pradesh,Adventure,Germany,2,3,Budget,Cab,Weekend Escape,25860.58,4.6,Completed
+2,2026-06-07,Coorg,Karnataka,Nature,UAE,2,8,Resort,Bus,Weekend Escape,66108.78,4.5,Completed
+3,2025-09-05,Munnar,Kerala,Nature,Singapore,1,2,5 Star,Flight,Couples Retreat,16177.64,4.6,Completed
+4,2026-01-03,Coorg,Karnataka,Nature,Australia,6,10,4 Star,Cab,Family Holiday,225705.11,3.8,Completed
+5,2025-10-03,Munnar,Kerala,Nature,USA,4,5,5 Star,Bus,Family Holiday,69853.37,4.3,Completed
+6,2025-06-18,Munnar,Kerala,Nature,UK,4,7,4 Star,Cab,Family Holiday,135530.72,5.0,Completed
+7,2025-08-27,Ooty,Tamil Nadu,Hill Station,Singapore,4,5,Budget,Train,Heritage Tour,101775.64,4.1,Confirmed
+8,2026-03-05,Manali,Himachal Pradesh,Adventure,UK,2,9,Resort,Bus,Nature Escape,76926.12,4.0,Completed
+9,2025-08-05,Coorg,Karnataka,Nature,France,1,1,Budget,Train,Nature Escape,11132.04,4.0,Completed
+10,2026-03-17,Manali,Himachal Pradesh,Adventure,Canada,1,2,Resort,Bus,Nature Escape,10699.73,4.1,Completed
+11,2025-01-24,Manali,Himachal Pradesh,Adventure,Canada,2,9,Budget,Bus,Nature Escape,61167.7,4.2,Cancelled
+12,2026-05-01,Rishikesh,Uttarakhand,Adventure,Singapore,4,1,Budget,Bus,Couples Retreat,30471.5,4.5,Completed
+13,2025-03-03,Pondicherry,Puducherry,Beach,USA,5,3,3 Star,Car,Heritage Tour,67861.47,3.6,Confirmed
+14,2025-07-23,Manali,Himachal Pradesh,Adventure,UAE,6,6,5 Star,Cab,Adventure Trip,95056.79,3.7,Completed
+15,2026-06-08,Rishikesh,Uttarakhand,Adventure,Germany,1,2,Budget,Train,Weekend Escape,18677.25,4.6,Completed
+16,2025-07-18,Jaipur,Rajasthan,Heritage,Japan,5,8,3 Star,Car,Adventure Trip,98945.47,4.5,Completed
+17,2026-02-14,Pondicherry,Puducherry,Beach,India,6,2,Budget,Car,Nature Escape,93145.87,4.4,Completed
+18,2026-02-06,Manali,Himachal Pradesh,Adventure,France,2,2,5 Star,Cab,Weekend Escape,30154.39,4.6,Confirmed
+19,2025-03-25,Munnar,Kerala,Nature,UK,4,8,5 Star,Train,Adventure Trip,145256.54,4.7,Confirmed
+20,2026-03-10,Kochi,Kerala,Cultural,Canada,6,8,3 Star,Train,Couples Retreat,120441.65,4.4,Completed
+21,2025-02-24,Udaipur,Rajasthan,Heritage,India,1,10,5 Star,Cab,Heritage Tour,30074.74,4.6,Completed
+22,2025-08-13,Goa,Goa,Beach,Japan,2,10,Resort,Flight,Heritage Tour,50766.41,4.5,Completed
+23,2025-11-09,Munnar,Kerala,Nature,Singapore,2,5,5 Star,Train,Nature Escape,46846.84,5.0,Completed
+24,2025-04-03,Coorg,Karnataka,Nature,Germany,5,5,3 Star,Bus,Weekend Escape,129753.82,4.0,Completed
+25,2026-06-23,Manali,Himachal Pradesh,Adventure,Japan,6,9,Budget,Cab,Couples Retreat,242764.42,4.6,Confirmed
+26,2026-06-05,Manali,Himachal Pradesh,Adventure,Australia,5,4,4 Star,Train,Nature Escape,92236.64,4.1,Completed
+27,2025-02-03,Kochi,Kerala,Cultural,Australia,1,1,4 Star,Train,Nature Escape,9016.88,3.8,Completed
+28,2025-04-03,Jaipur,Rajasthan,Heritage,Canada,1,6,Resort,Cab,Family Holiday,19475.96,4.6,Completed
+29,2025-02-12,Munnar,Kerala,Nature,Germany,6,2,4 Star,Cab,Adventure Trip,108744.28,4.6,Completed
+30,2025-06-14,Ooty,Tamil Nadu,Hill Station,UK,6,6,5 Star,Train,Couples Retreat,123212.33,4.2,Completed
+31,2025-02-28,Pondicherry,Puducherry,Beach,Germany,2,8,4 Star,Bus,Family Holiday,50607.54,4.1,Completed
+32,2025-09-12,Coorg,Karnataka,Nature,UAE,6,9,4 Star,Flight,Weekend Escape,242530.18,4.5,Completed
+33,2025-09-02,Goa,Goa,Beach,Japan,4,6,4 Star,Car,Heritage Tour,117672.61,4.5,Completed
+34,2026-02-01,Coorg,Karnataka,Nature,Canada,6,4,4 Star,Car,Weekend Escape,165323.68,4.2,Completed
+35,2025-04-24,Manali,Himachal Pradesh,Adventure,Canada,3,7,4 Star,Car,Nature Escape,60530.36,3.6,Completed
+36,2025-06-20,Rishikesh,Uttarakhand,Adventure,Australia,4,9,Budget,Bus,Couples Retreat,112302.21,4.8,Completed
+37,2025-11-15,Pondicherry,Puducherry,Beach,France,6,4,Resort,Car,Nature Escape,70327.83,3.8,Completed
+38,2025-08-22,Manali,Himachal Pradesh,Adventure,Germany,2,3,Budget,Flight,Family Holiday,42321.78,4.3,Completed
+39,2026-03-14,Rishikesh,Uttarakhand,Adventure,Germany,6,7,5 Star,Car,Family Holiday,132223.13,4.9,Confirmed
+40,2026-02-08,Jaipur,Rajasthan,Heritage,Canada,4,1,Resort,Train,Weekend Escape,51960.54,3.9,Completed
+41,2026-06-20,Udaipur,Rajasthan,Heritage,France,5,9,5 Star,Cab,Adventure Trip,225153.58,4.1,Completed
+42,2025-09-25,Coorg,Karnataka,Nature,France,6,4,4 Star,Car,Weekend Escape,114509.39,4.4,Completed
+43,2026-06-03,Jaipur,Rajasthan,Heritage,UK,2,7,3 Star,Train,Weekend Escape,48487.81,4.2,Confirmed
+44,2026-01-25,Rishikesh,Uttarakhand,Adventure,India,5,7,5 Star,Flight,Couples Retreat,112338.47,4.4,Confirmed
+45,2026-02-18,Coorg,Karnataka,Nature,Japan,2,8,3 Star,Bus,Adventure Trip,57767.33,4.0,Completed
+46,2026-03-05,Rishikesh,Uttarakhand,Adventure,Canada,1,7,Resort,Cab,Nature Escape,19294.57,3.8,Completed
+47,2026-03-06,Ooty,Tamil Nadu,Hill Station,Australia,4,6,3 Star,Car,Couples Retreat,100187.8,4.2,Completed
+48,2025-03-16,Ooty,Tamil Nadu,Hill Station,Canada,1,6,3 Star,Flight,Nature Escape,12840.09,5.0,Completed
+49,2025-01-20,Jaipur,Rajasthan,Heritage,Germany,2,8,Budget,Cab,Family Holiday,54589.67,4.0,Cancelled
+50,2025-04-25,Jaipur,Rajasthan,Heritage,Australia,1,10,Budget,Bus,Heritage Tour,44610.19,4.7,Completed
+51,2025-07-03,Rishikesh,Uttarakhand,Adventure,Germany,1,5,Resort,Flight,Heritage Tour,24408.13,4.0,Completed
+52,2025-11-01,Kochi,Kerala,Cultural,France,1,7,4 Star,Car,Nature Escape,17795.79,4.5,Completed
+53,2025-09-20,Coorg,Karnataka,Nature,France,4,7,Resort,Bus,Couples Retreat,148219.17,5.0,Completed
+54,2026-03-19,Rishikesh,Uttarakhand,Adventure,UAE,3,1,5 Star,Bus,Family Holiday,27843.46,4.8,Completed
+55,2025-09-20,Manali,Himachal Pradesh,Adventure,Canada,1,9,3 Star,Flight,Family Holiday,38398.79,4.4,Completed
+56,2026-04-15,Ooty,Tamil Nadu,Hill Station,USA,3,4,5 Star,Train,Couples Retreat,59019.08,3.8,Completed
+57,2025-12-14,Coorg,Karnataka,Nature,Singapore,3,8,4 Star,Bus,Couples Retreat,77984.91,4.1,Cancelled
+58,2025-06-07,Munnar,Kerala,Nature,France,3,10,Resort,Cab,Couples Retreat,156094.92,4.9,Completed
+59,2025-12-06,Manali,Himachal Pradesh,Adventure,India,6,9,3 Star,Bus,Weekend Escape,272134.7,4.3,Confirmed
+60,2026-04-04,Ooty,Tamil Nadu,Hill Station,Japan,3,8,5 Star,Car,Couples Retreat,57799.34,4.2,Confirmed
+61,2026-04-04,Goa,Goa,Beach,UAE,4,2,Resort,Flight,Family Holiday,47678.57,3.9,Completed
+62,2026-02-20,Rishikesh,Uttarakhand,Adventure,Japan,2,9,5 Star,Car,Adventure Trip,57191.53,5.0,Completed
+63,2025-02-20,Goa,Goa,Beach,Germany,6,4,4 Star,Flight,Family Holiday,98870.54,4.6,Completed
+64,2026-04-10,Ooty,Tamil Nadu,Hill Station,Germany,3,5,5 Star,Flight,Nature Escape,48049.94,4.7,Confirmed
+65,2025-07-14,Goa,Goa,Beach,Canada,2,3,4 Star,Train,Weekend Escape,29876.6,3.8,Confirmed
+66,2026-03-04,Pondicherry,Puducherry,Beach,Australia,6,7,4 Star,Cab,Heritage Tour,141972.85,4.0,Completed
+67,2026-02-24,Udaipur,Rajasthan,Heritage,Japan,3,1,Budget,Train,Nature Escape,36389.63,5.0,Completed
+68,2025-09-19,Ooty,Tamil Nadu,Hill Station,UK,4,9,5 Star,Bus,Family Holiday,179712.19,3.9,Confirmed
+69,2025-03-16,Udaipur,Rajasthan,Heritage,UAE,3,6,Budget,Train,Couples Retreat,69081.37,4.1,Completed
+70,2025-02-15,Goa,Goa,Beach,Singapore,3,6,Budget,Car,Heritage Tour,77305.68,4.0,Confirmed
+71,2026-03-14,Ooty,Tamil Nadu,Hill Station,Germany,5,6,Resort,Car,Nature Escape,98824.94,4.3,Completed
+72,2026-04-04,Ooty,Tamil Nadu,Hill Station,Japan,2,3,4 Star,Cab,Weekend Escape,26262.38,4.6,Cancelled
+73,2025-04-15,Goa,Goa,Beach,UK,4,5,Resort,Bus,Adventure Trip,122072.86,4.4,Completed
+74,2026-05-24,Jaipur,Rajasthan,Heritage,USA,3,7,4 Star,Cab,Couples Retreat,95360.7,4.8,Completed
+75,2026-04-28,Jaipur,Rajasthan,Heritage,France,5,8,4 Star,Bus,Heritage Tour,174973.17,5.0,Cancelled
+76,2025-08-19,Kochi,Kerala,Cultural,Germany,4,1,4 Star,Car,Nature Escape,42792.28,4.0,Cancelled
+77,2025-05-16,Ooty,Tamil Nadu,Hill Station,UK,5,10,4 Star,Flight,Adventure Trip,140153.41,4.6,Confirmed
+78,2025-05-03,Pondicherry,Puducherry,Beach,Australia,3,10,5 Star,Flight,Couples Retreat,146009.9,4.4,Completed
+79,2025-11-21,Pondicherry,Puducherry,Beach,Canada,1,10,Budget,Train,Nature Escape,39105.91,4.4,Cancelled
+80,2025-04-15,Jaipur,Rajasthan,Heritage,Australia,1,1,4 Star,Flight,Couples Retreat,9564.54,4.5,Completed
+81,2026-02-19,Jaipur,Rajasthan,Heritage,UK,2,2,Resort,Car,Heritage Tour,28711.45,4.1,Completed
+82,2026-03-09,Ooty,Tamil Nadu,Hill Station,France,3,9,3 Star,Flight,Adventure Trip,144944.93,4.2,Completed
+83,2026-02-23,Manali,Himachal Pradesh,Adventure,France,3,4,5 Star,Car,Weekend Escape,49854.14,3.3,Completed
+84,2026-01-09,Ooty,Tamil Nadu,Hill Station,Japan,6,1,Resort,Car,Couples Retreat,54168.49,3.8,Confirmed
+85,2025-08-21,Munnar,Kerala,Nature,Japan,3,3,Budget,Flight,Couples Retreat,43823.78,4.2,Confirmed
+86,2025-11-24,Kochi,Kerala,Cultural,UK,2,3,Resort,Bus,Heritage Tour,28463.12,4.5,Completed
+87,2026-04-26,Manali,Himachal Pradesh,Adventure,Singapore,1,8,Budget,Train,Family Holiday,40122.99,5.0,Confirmed
+88,2025-12-03,Kochi,Kerala,Cultural,India,3,9,Budget,Car,Couples Retreat,116310.52,4.2,Completed
+89,2025-12-04,Munnar,Kerala,Nature,France,1,10,Resort,Bus,Heritage Tour,24235.63,4.7,Completed
+90,2026-02-04,Jaipur,Rajasthan,Heritage,India,1,5,5 Star,Flight,Weekend Escape,18356.35,3.6,Completed
+91,2025-12-22,Coorg,Karnataka,Nature,UAE,5,3,5 Star,Flight,Adventure Trip,104267.15,4.2,Completed
+92,2026-03-08,Udaipur,Rajasthan,Heritage,USA,6,6,Resort,Bus,Weekend Escape,121212.71,4.9,Completed
+93,2026-03-03,Munnar,Kerala,Nature,Japan,1,1,4 Star,Train,Family Holiday,8847.79,4.6,Completed
+94,2025-08-11,Jaipur,Rajasthan,Heritage,Japan,1,5,3 Star,Train,Heritage Tour,15492.38,3.9,Completed
+95,2025-01-05,Ooty,Tamil Nadu,Hill Station,Singapore,2,10,4 Star,Flight,Family Holiday,52015.48,4.2,Completed
+96,2026-03-25,Udaipur,Rajasthan,Heritage,Canada,5,2,5 Star,Cab,Family Holiday,59814.65,4.4,Confirmed
+97,2026-05-10,Pondicherry,Puducherry,Beach,India,1,8,5 Star,Car,Nature Escape,23173.76,3.6,Completed
+98,2025-05-03,Jaipur,Rajasthan,Heritage,Australia,5,10,Resort,Bus,Adventure Trip,249296.55,4.6,Completed
+99,2026-02-04,Goa,Goa,Beach,Canada,6,4,5 Star,Car,Family Holiday,124606.65,3.9,Completed
+100,2025-11-22,Manali,Himachal Pradesh,Adventure,Singapore,2,8,Budget,Flight,Weekend Escape,35218.3,4.7,Completed
+101,2025-05-18,Ooty,Tamil Nadu,Hill Station,Japan,5,9,4 Star,Flight,Adventure Trip,153330.33,4.4,Completed
+102,2025-10-20,Manali,Himachal Pradesh,Adventure,Singapore,1,10,Resort,Train,Family Holiday,37794.7,3.6,Completed
+103,2026-06-12,Goa,Goa,Beach,Australia,5,4,5 Star,Cab,Heritage Tour,107174.82,5.0,Confirmed
+104,2025-09-01,Jaipur,Rajasthan,Heritage,Australia,6,5,4 Star,Bus,Weekend Escape,85543.89,4.5,Completed
+105,2025-03-05,Ooty,Tamil Nadu,Hill Station,USA,6,9,3 Star,Car,Adventure Trip,173219.12,4.2,Confirmed
+106,2025-03-02,Jaipur,Rajasthan,Heritage,UK,5,1,Budget,Bus,Adventure Trip,54407.76,4.7,Completed
+107,2025-09-07,Coorg,Karnataka,Nature,USA,3,7,Budget,Bus,Nature Escape,92204.13,4.3,Completed
+108,2025-02-01,Munnar,Kerala,Nature,Australia,2,3,4 Star,Bus,Couples Retreat,25871.29,4.2,Completed
+109,2025-05-13,Coorg,Karnataka,Nature,Germany,5,9,4 Star,Flight,Adventure Trip,190880.16,5.0,Confirmed
+110,2026-02-19,Kochi,Kerala,Cultural,UAE,3,2,5 Star,Flight,Couples Retreat,45951.63,4.5,Completed
+111,2025-12-03,Kochi,Kerala,Cultural,USA,2,7,Resort,Car,Heritage Tour,44481.88,4.3,Completed
+112,2025-03-17,Goa,Goa,Beach,Canada,5,4,4 Star,Bus,Nature Escape,126591.83,4.1,Completed
+113,2025-04-05,Manali,Himachal Pradesh,Adventure,Germany,2,10,3 Star,Flight,Family Holiday,98947.49,3.9,Completed
+114,2025-11-28,Udaipur,Rajasthan,Heritage,UK,4,2,5 Star,Car,Nature Escape,41322.08,4.5,Completed
+115,2026-05-03,Manali,Himachal Pradesh,Adventure,France,4,1,Budget,Bus,Couples Retreat,49843.89,4.7,Completed
+116,2026-03-19,Coorg,Karnataka,Nature,India,4,10,3 Star,Bus,Heritage Tour,128399.73,3.9,Completed
+117,2025-04-26,Udaipur,Rajasthan,Heritage,USA,5,3,Budget,Train,Nature Escape,75561.27,4.1,Completed
+118,2025-10-13,Kochi,Kerala,Cultural,Singapore,6,10,Budget,Bus,Weekend Escape,188844.17,4.3,Completed
+119,2025-09-24,Rishikesh,Uttarakhand,Adventure,UK,3,2,Resort,Train,Couples Retreat,40841.29,4.2,Completed
+120,2025-03-10,Coorg,Karnataka,Nature,UAE,6,6,3 Star,Cab,Weekend Escape,158113.03,4.2,Completed
+121,2025-12-10,Jaipur,Rajasthan,Heritage,Germany,3,8,3 Star,Train,Family Holiday,62055.01,4.5,Completed
+122,2026-05-02,Udaipur,Rajasthan,Heritage,Japan,2,10,5 Star,Train,Family Holiday,56905.75,3.9,Completed
+123,2025-06-24,Pondicherry,Puducherry,Beach,India,4,6,3 Star,Car,Heritage Tour,92197.4,3.9,Completed
+124,2026-04-27,Munnar,Kerala,Nature,Singapore,6,10,5 Star,Car,Couples Retreat,261373.08,4.5,Completed
+125,2025-06-27,Munnar,Kerala,Nature,Japan,2,5,Budget,Car,Couples Retreat,38271.17,4.8,Completed
+126,2025-06-09,Pondicherry,Puducherry,Beach,Canada,2,7,Budget,Train,Adventure Trip,77095.51,3.7,Completed
+127,2026-01-17,Udaipur,Rajasthan,Heritage,Germany,4,2,4 Star,Train,Weekend Escape,35707.37,4.3,Completed
+128,2025-02-10,Pondicherry,Puducherry,Beach,UK,6,8,5 Star,Cab,Weekend Escape,210916.44,4.0,Completed
+129,2025-05-18,Rishikesh,Uttarakhand,Adventure,Canada,4,2,4 Star,Train,Couples Retreat,36036.35,4.0,Completed
+130,2026-04-20,Coorg,Karnataka,Nature,India,6,9,Resort,Train,Nature Escape,140200.0,3.9,Completed
+131,2025-08-19,Kochi,Kerala,Cultural,UK,6,2,Resort,Bus,Weekend Escape,97582.54,4.5,Completed
+132,2026-04-02,Kochi,Kerala,Cultural,Singapore,3,1,4 Star,Flight,Couples Retreat,33481.62,3.9,Completed
+133,2025-11-05,Ooty,Tamil Nadu,Hill Station,Singapore,5,6,3 Star,Car,Nature Escape,107443.43,4.7,Confirmed
+134,2025-02-10,Munnar,Kerala,Nature,India,2,1,4 Star,Bus,Heritage Tour,25891.96,4.8,Completed
+135,2025-02-25,Munnar,Kerala,Nature,Australia,3,1,4 Star,Bus,Weekend Escape,32556.74,4.0,Cancelled
+136,2025-11-06,Pondicherry,Puducherry,Beach,France,3,9,4 Star,Flight,Nature Escape,91372.66,4.6,Cancelled
+137,2025-06-18,Manali,Himachal Pradesh,Adventure,Singapore,1,2,4 Star,Bus,Couples Retreat,14897.26,4.6,Completed
+138,2025-12-20,Kochi,Kerala,Cultural,Australia,6,1,Budget,Car,Couples Retreat,76264.64,4.7,Completed
+139,2025-01-05,Rishikesh,Uttarakhand,Adventure,France,1,3,Budget,Train,Nature Escape,14031.42,3.9,Completed
+140,2025-12-12,Pondicherry,Puducherry,Beach,USA,5,3,Resort,Bus,Adventure Trip,63548.5,4.1,Cancelled
+141,2025-01-24,Jaipur,Rajasthan,Heritage,France,5,7,Resort,Flight,Couples Retreat,172368.13,4.5,Completed
+142,2026-04-07,Goa,Goa,Beach,UK,1,8,3 Star,Car,Weekend Escape,41079.77,4.9,Cancelled
+143,2025-12-23,Goa,Goa,Beach,Canada,5,5,4 Star,Train,Nature Escape,131928.78,4.5,Completed
+144,2025-07-26,Jaipur,Rajasthan,Heritage,Germany,4,1,4 Star,Cab,Heritage Tour,51056.3,4.7,Completed
+145,2025-03-03,Manali,Himachal Pradesh,Adventure,UAE,6,8,Resort,Car,Adventure Trip,202618.1,4.9,Completed
+146,2026-05-12,Jaipur,Rajasthan,Heritage,Canada,6,10,3 Star,Train,Adventure Trip,233759.91,4.3,Confirmed
+147,2026-05-05,Manali,Himachal Pradesh,Adventure,UK,2,6,3 Star,Bus,Heritage Tour,68250.38,4.3,Completed
+148,2025-05-21,Manali,Himachal Pradesh,Adventure,Japan,5,2,Resort,Train,Heritage Tour,64418.25,4.9,Completed
+149,2025-11-27,Rishikesh,Uttarakhand,Adventure,India,1,2,Budget,Cab,Couples Retreat,16465.48,3.9,Completed
+150,2026-06-10,Manali,Himachal Pradesh,Adventure,France,2,7,4 Star,Car,Weekend Escape,56281.02,4.6,Completed
+151,2026-03-07,Udaipur,Rajasthan,Heritage,Japan,2,6,4 Star,Bus,Adventure Trip,34492.93,4.0,Completed
+152,2025-09-15,Munnar,Kerala,Nature,UK,1,1,4 Star,Car,Heritage Tour,14253.61,4.2,Confirmed
+153,2025-11-19,Udaipur,Rajasthan,Heritage,Germany,2,8,Resort,Car,Adventure Trip,77237.88,4.7,Completed
+154,2025-08-07,Rishikesh,Uttarakhand,Adventure,Singapore,1,1,4 Star,Car,Heritage Tour,12931.76,4.6,Completed
+155,2026-06-01,Goa,Goa,Beach,UAE,2,5,4 Star,Car,Couples Retreat,23136.47,4.0,Completed
+156,2026-01-17,Pondicherry,Puducherry,Beach,Canada,3,10,Resort,Flight,Family Holiday,144451.5,4.2,Confirmed
+157,2025-11-18,Udaipur,Rajasthan,Heritage,UK,2,10,Resort,Car,Heritage Tour,37915.81,4.2,Completed
+158,2025-05-20,Coorg,Karnataka,Nature,UK,3,10,4 Star,Train,Adventure Trip,154564.37,3.7,Completed
+159,2025-11-17,Coorg,Karnataka,Nature,Canada,4,10,4 Star,Car,Weekend Escape,134165.49,4.8,Confirmed
+160,2025-01-20,Pondicherry,Puducherry,Beach,Australia,6,10,Resort,Train,Nature Escape,138130.56,4.3,Completed
+161,2026-01-05,Munnar,Kerala,Nature,India,5,2,3 Star,Flight,Adventure Trip,46719.22,4.2,Completed
+162,2026-04-28,Ooty,Tamil Nadu,Hill Station,UK,5,4,Resort,Bus,Nature Escape,88303.83,4.0,Cancelled
+163,2026-03-18,Udaipur,Rajasthan,Heritage,Canada,3,5,Resort,Car,Family Holiday,78822.83,4.1,Cancelled
+164,2025-10-23,Munnar,Kerala,Nature,France,3,8,4 Star,Cab,Nature Escape,65584.14,5.0,Completed
+165,2026-01-13,Udaipur,Rajasthan,Heritage,UK,3,1,4 Star,Flight,Couples Retreat,39188.97,4.3,Confirmed
+166,2025-09-18,Manali,Himachal Pradesh,Adventure,UK,1,10,Resort,Train,Family Holiday,26615.5,4.1,Completed
+167,2025-08-02,Goa,Goa,Beach,UAE,3,8,Budget,Train,Weekend Escape,133852.38,4.7,Confirmed
+168,2026-04-16,Munnar,Kerala,Nature,Australia,3,5,Budget,Flight,Nature Escape,69259.98,4.8,Completed
+169,2025-02-06,Kochi,Kerala,Cultural,UK,1,7,5 Star,Train,Nature Escape,40029.11,4.4,Completed
+170,2025-04-11,Manali,Himachal Pradesh,Adventure,France,6,9,Resort,Car,Family Holiday,249149.29,4.3,Completed
+171,2025-04-11,Jaipur,Rajasthan,Heritage,France,6,5,3 Star,Flight,Nature Escape,106363.66,4.2,Completed
+172,2026-01-27,Kochi,Kerala,Cultural,Canada,3,2,5 Star,Flight,Family Holiday,47567.39,4.1,Confirmed
+173,2025-01-09,Kochi,Kerala,Cultural,Germany,4,5,4 Star,Bus,Heritage Tour,82870.24,4.0,Completed
+174,2025-04-15,Manali,Himachal Pradesh,Adventure,UK,4,9,4 Star,Flight,Nature Escape,166777.22,3.9,Completed
+175,2025-08-05,Pondicherry,Puducherry,Beach,UK,4,10,4 Star,Car,Nature Escape,147522.42,3.8,Completed
+176,2025-08-22,Rishikesh,Uttarakhand,Adventure,USA,5,8,Resort,Bus,Weekend Escape,181000.28,4.2,Confirmed
+177,2026-05-07,Rishikesh,Uttarakhand,Adventure,Canada,2,3,4 Star,Cab,Adventure Trip,20844.66,4.2,Completed
+178,2025-02-15,Jaipur,Rajasthan,Heritage,Canada,4,8,Resort,Flight,Heritage Tour,127664.22,4.3,Completed
+179,2026-01-09,Ooty,Tamil Nadu,Hill Station,Germany,5,2,Budget,Car,Couples Retreat,74110.23,5.0,Cancelled
+180,2026-04-02,Manali,Himachal Pradesh,Adventure,UAE,2,3,5 Star,Bus,Adventure Trip,38526.38,4.6,Completed
+181,2025-03-22,Coorg,Karnataka,Nature,UK,6,6,Budget,Train,Heritage Tour,117515.01,5.0,Completed
+182,2025-10-15,Coorg,Karnataka,Nature,UAE,5,7,3 Star,Train,Adventure Trip,112138.77,4.3,Confirmed
+183,2025-04-02,Kochi,Kerala,Cultural,Japan,1,4,3 Star,Flight,Weekend Escape,19546.92,4.0,Completed
+184,2025-02-13,Pondicherry,Puducherry,Beach,Germany,5,4,Budget,Train,Heritage Tour,111086.94,3.7,Confirmed
+185,2025-11-19,Rishikesh,Uttarakhand,Adventure,Singapore,2,5,3 Star,Cab,Family Holiday,37257.3,3.9,Completed
+186,2025-06-21,Kochi,Kerala,Cultural,Canada,4,1,4 Star,Car,Heritage Tour,37324.86,4.2,Completed
+187,2026-01-06,Coorg,Karnataka,Nature,France,2,4,4 Star,Train,Adventure Trip,48250.76,4.8,Completed
+188,2025-08-09,Munnar,Kerala,Nature,Singapore,6,2,5 Star,Bus,Weekend Escape,98097.07,4.3,Completed
+189,2026-01-22,Rishikesh,Uttarakhand,Adventure,Japan,1,2,3 Star,Cab,Nature Escape,11904.76,4.6,Completed
+190,2025-01-07,Munnar,Kerala,Nature,USA,6,8,3 Star,Cab,Nature Escape,162358.02,5.0,Completed
+191,2025-10-13,Pondicherry,Puducherry,Beach,Canada,6,6,4 Star,Bus,Couples Retreat,148453.05,5.0,Completed
+192,2025-11-07,Udaipur,Rajasthan,Heritage,Singapore,4,1,Resort,Train,Nature Escape,30100.65,5.0,Confirmed
+193,2026-02-10,Jaipur,Rajasthan,Heritage,Germany,3,4,5 Star,Cab,Family Holiday,60769.03,4.2,Confirmed
+194,2026-04-15,Jaipur,Rajasthan,Heritage,Singapore,2,3,Resort,Car,Family Holiday,40020.24,4.1,Completed
+195,2025-02-17,Ooty,Tamil Nadu,Hill Station,USA,6,1,Budget,Car,Family Holiday,55357.85,4.3,Completed
+196,2025-12-02,Rishikesh,Uttarakhand,Adventure,Japan,4,8,Budget,Flight,Heritage Tour,108630.2,4.3,Completed
+197,2025-09-18,Manali,Himachal Pradesh,Adventure,India,5,7,3 Star,Flight,Weekend Escape,128130.94,4.1,Completed
+198,2026-01-03,Udaipur,Rajasthan,Heritage,UAE,4,10,3 Star,Train,Couples Retreat,175440.14,4.2,Completed
+199,2025-02-03,Kochi,Kerala,Cultural,UAE,4,9,5 Star,Flight,Nature Escape,71179.62,3.9,Confirmed
+200,2025-04-17,Ooty,Tamil Nadu,Hill Station,Germany,2,10,5 Star,Bus,Weekend Escape,98388.21,4.4,Completed
+201,2026-06-19,Ooty,Tamil Nadu,Hill Station,UK,3,1,3 Star,Cab,Family Holiday,39193.08,4.2,Completed
+202,2025-08-19,Kochi,Kerala,Cultural,Canada,3,7,3 Star,Flight,Heritage Tour,92552.26,4.4,Completed
+203,2025-08-27,Goa,Goa,Beach,Singapore,5,10,Resort,Car,Couples Retreat,103263.99,4.8,Completed
+204,2026-01-14,Jaipur,Rajasthan,Heritage,Japan,6,7,Budget,Cab,Couples Retreat,210019.82,4.3,Completed
+205,2025-05-13,Jaipur,Rajasthan,Heritage,UAE,3,6,Budget,Flight,Weekend Escape,94565.96,4.4,Completed
+206,2026-02-15,Coorg,Karnataka,Nature,Canada,5,7,Budget,Flight,Weekend Escape,105138.83,4.2,Completed
+207,2025-11-28,Kochi,Kerala,Cultural,India,3,7,5 Star,Flight,Nature Escape,115969.59,4.8,Completed
+208,2026-01-06,Jaipur,Rajasthan,Heritage,Australia,3,5,5 Star,Train,Weekend Escape,45559.74,4.3,Completed
+209,2025-03-12,Manali,Himachal Pradesh,Adventure,Germany,6,8,Resort,Cab,Family Holiday,156646.57,4.7,Confirmed
+210,2026-01-26,Udaipur,Rajasthan,Heritage,France,3,7,Resort,Train,Couples Retreat,82910.72,4.4,Completed
+211,2025-11-06,Kochi,Kerala,Cultural,Singapore,3,8,Resort,Train,Couples Retreat,90191.53,4.2,Completed
+212,2026-06-06,Coorg,Karnataka,Nature,India,6,8,3 Star,Car,Couples Retreat,203451.37,4.5,Confirmed
+213,2026-02-22,Pondicherry,Puducherry,Beach,UK,6,5,3 Star,Bus,Nature Escape,97527.56,4.1,Completed
+214,2026-01-18,Coorg,Karnataka,Nature,UAE,5,1,4 Star,Cab,Heritage Tour,37046.26,4.6,Completed
+215,2025-12-06,Rishikesh,Uttarakhand,Adventure,India,5,7,4 Star,Car,Weekend Escape,78530.06,3.9,Completed
+216,2025-08-15,Udaipur,Rajasthan,Heritage,UAE,4,10,Resort,Train,Couples Retreat,198156.92,4.3,Completed
+217,2025-03-04,Jaipur,Rajasthan,Heritage,Singapore,3,6,5 Star,Train,Heritage Tour,72181.61,3.8,Completed
+218,2025-10-02,Goa,Goa,Beach,India,3,2,3 Star,Train,Heritage Tour,25914.27,4.6,Completed
+219,2026-03-08,Kochi,Kerala,Cultural,UK,2,7,5 Star,Flight,Nature Escape,54027.51,4.0,Completed
+220,2025-07-09,Goa,Goa,Beach,Japan,1,9,3 Star,Bus,Couples Retreat,22034.89,4.1,Completed
+221,2026-04-17,Udaipur,Rajasthan,Heritage,Japan,4,10,5 Star,Cab,Weekend Escape,137715.16,3.8,Completed
+222,2025-10-20,Rishikesh,Uttarakhand,Adventure,USA,6,3,4 Star,Flight,Family Holiday,70926.42,3.9,Completed
+223,2026-05-13,Kochi,Kerala,Cultural,Japan,2,10,5 Star,Car,Family Holiday,71388.98,5.0,Completed
+224,2025-06-16,Manali,Himachal Pradesh,Adventure,UK,2,6,5 Star,Cab,Weekend Escape,69062.86,3.9,Completed
+225,2025-07-27,Kochi,Kerala,Cultural,Canada,5,8,5 Star,Car,Adventure Trip,171899.64,4.6,Confirmed
+226,2025-08-10,Ooty,Tamil Nadu,Hill Station,Australia,2,9,4 Star,Train,Adventure Trip,73842.09,4.8,Completed
+227,2026-05-04,Rishikesh,Uttarakhand,Adventure,USA,3,9,4 Star,Cab,Weekend Escape,117011.16,4.4,Completed
+228,2025-08-10,Ooty,Tamil Nadu,Hill Station,France,3,6,Budget,Car,Weekend Escape,80833.96,4.7,Confirmed
+229,2025-12-28,Rishikesh,Uttarakhand,Adventure,UAE,2,10,3 Star,Train,Family Holiday,89795.93,3.8,Completed
+230,2025-10-10,Rishikesh,Uttarakhand,Adventure,Australia,5,2,3 Star,Car,Weekend Escape,96139.14,4.2,Completed
+231,2025-05-08,Jaipur,Rajasthan,Heritage,Singapore,2,7,5 Star,Train,Heritage Tour,62062.98,4.2,Confirmed
+232,2025-03-13,Coorg,Karnataka,Nature,Australia,6,6,5 Star,Car,Couples Retreat,174375.41,4.5,Confirmed
+233,2025-03-24,Pondicherry,Puducherry,Beach,Singapore,1,9,5 Star,Train,Adventure Trip,41091.24,4.2,Completed
+234,2025-05-19,Pondicherry,Puducherry,Beach,Singapore,6,1,Budget,Flight,Nature Escape,66008.02,4.6,Completed
+235,2025-06-15,Pondicherry,Puducherry,Beach,India,4,4,3 Star,Bus,Family Holiday,105378.4,4.6,Completed
+236,2025-06-02,Kochi,Kerala,Cultural,Australia,6,4,5 Star,Flight,Nature Escape,71880.82,4.5,Completed
+237,2025-08-17,Pondicherry,Puducherry,Beach,India,1,6,Budget,Car,Nature Escape,14722.58,3.9,Completed
+238,2025-11-12,Manali,Himachal Pradesh,Adventure,UK,4,3,3 Star,Flight,Heritage Tour,70477.44,4.8,Completed
+239,2025-12-24,Munnar,Kerala,Nature,UK,4,10,5 Star,Train,Weekend Escape,175178.86,4.8,Completed
+240,2026-02-11,Jaipur,Rajasthan,Heritage,Germany,3,2,3 Star,Cab,Heritage Tour,44473.76,4.8,Completed
+241,2025-01-28,Manali,Himachal Pradesh,Adventure,Germany,5,10,Resort,Train,Nature Escape,169807.36,4.5,Completed
+242,2026-01-04,Munnar,Kerala,Nature,France,6,10,Budget,Cab,Weekend Escape,318426.41,3.7,Completed
+243,2026-02-12,Coorg,Karnataka,Nature,UK,4,2,Budget,Cab,Weekend Escape,32844.23,5.0,Completed
+244,2025-10-21,Coorg,Karnataka,Nature,UAE,4,7,Budget,Cab,Heritage Tour,110931.99,3.9,Completed
+245,2026-05-07,Jaipur,Rajasthan,Heritage,Canada,3,7,Resort,Flight,Couples Retreat,99596.08,4.4,Completed
+246,2026-02-04,Pondicherry,Puducherry,Beach,Japan,5,1,4 Star,Train,Weekend Escape,30508.81,4.2,Completed
+247,2026-04-12,Coorg,Karnataka,Nature,Canada,6,5,3 Star,Bus,Family Holiday,170527.68,4.3,Confirmed
+248,2025-11-26,Kochi,Kerala,Cultural,Australia,5,2,4 Star,Cab,Nature Escape,53003.87,4.2,Completed
+249,2026-04-28,Rishikesh,Uttarakhand,Adventure,UK,3,3,4 Star,Flight,Heritage Tour,43028.84,4.3,Confirmed
+250,2025-01-08,Ooty,Tamil Nadu,Hill Station,France,3,7,3 Star,Train,Weekend Escape,95714.12,4.3,Completed
+251,2026-02-08,Udaipur,Rajasthan,Heritage,Germany,4,6,4 Star,Flight,Heritage Tour,89722.1,4.5,Confirmed
+252,2025-02-13,Goa,Goa,Beach,France,3,5,4 Star,Flight,Heritage Tour,60090.78,4.2,Completed
+253,2025-10-24,Rishikesh,Uttarakhand,Adventure,Germany,4,6,Resort,Car,Family Holiday,115404.55,4.4,Confirmed
+254,2025-01-08,Coorg,Karnataka,Nature,Singapore,6,1,4 Star,Flight,Nature Escape,73363.63,4.1,Completed
+255,2025-07-17,Munnar,Kerala,Nature,UAE,4,1,3 Star,Bus,Weekend Escape,27961.75,4.6,Confirmed
+256,2026-03-24,Goa,Goa,Beach,Japan,1,9,3 Star,Car,Weekend Escape,31545.18,4.0,Completed
+257,2025-05-08,Manali,Himachal Pradesh,Adventure,Australia,3,7,4 Star,Bus,Adventure Trip,57795.53,4.5,Completed
+258,2025-05-04,Jaipur,Rajasthan,Heritage,France,4,6,5 Star,Flight,Heritage Tour,97868.37,5.0,Completed
+259,2026-03-09,Goa,Goa,Beach,USA,2,5,Resort,Flight,Family Holiday,49978.39,4.6,Completed
+260,2026-05-02,Manali,Himachal Pradesh,Adventure,Australia,2,1,5 Star,Car,Heritage Tour,18236.73,4.5,Completed
+261,2025-05-04,Ooty,Tamil Nadu,Hill Station,India,2,3,3 Star,Car,Couples Retreat,42868.37,4.8,Confirmed
+262,2025-03-01,Goa,Goa,Beach,Germany,6,8,3 Star,Flight,Couples Retreat,152724.03,4.6,Completed
+263,2026-02-27,Kochi,Kerala,Cultural,France,1,7,5 Star,Train,Couples Retreat,19099.22,4.2,Completed
+264,2025-08-21,Manali,Himachal Pradesh,Adventure,France,4,9,5 Star,Flight,Weekend Escape,97267.44,5.0,Completed
+265,2026-05-08,Coorg,Karnataka,Nature,India,4,6,5 Star,Cab,Adventure Trip,89951.23,4.2,Completed
+266,2025-08-01,Manali,Himachal Pradesh,Adventure,India,4,9,4 Star,Cab,Family Holiday,165981.74,4.6,Completed
+267,2025-09-18,Ooty,Tamil Nadu,Hill Station,Germany,5,7,4 Star,Train,Family Holiday,103197.2,4.3,Completed
+268,2025-12-19,Rishikesh,Uttarakhand,Adventure,UK,5,4,5 Star,Cab,Couples Retreat,56944.64,4.0,Completed
+269,2025-08-01,Coorg,Karnataka,Nature,France,1,6,Resort,Train,Family Holiday,19133.16,4.6,Completed
+270,2025-05-19,Jaipur,Rajasthan,Heritage,USA,5,6,Budget,Bus,Nature Escape,155434.36,3.6,Completed
+271,2025-10-11,Jaipur,Rajasthan,Heritage,UK,6,7,5 Star,Bus,Family Holiday,191625.55,4.8,Completed
+272,2025-06-13,Manali,Himachal Pradesh,Adventure,Australia,2,3,Budget,Cab,Adventure Trip,42796.83,4.0,Completed
+273,2025-06-20,Udaipur,Rajasthan,Heritage,Japan,2,10,Budget,Car,Family Holiday,54868.14,4.2,Completed
+274,2025-03-27,Udaipur,Rajasthan,Heritage,France,1,5,3 Star,Train,Nature Escape,13630.72,4.6,Completed
+275,2025-01-02,Kochi,Kerala,Cultural,France,6,7,3 Star,Car,Adventure Trip,201409.02,3.8,Confirmed
+276,2025-08-06,Pondicherry,Puducherry,Beach,USA,1,5,Budget,Bus,Couples Retreat,24453.97,4.9,Completed
+277,2026-01-06,Goa,Goa,Beach,Canada,1,6,Resort,Cab,Adventure Trip,27401.93,4.1,Completed
+278,2025-02-04,Udaipur,Rajasthan,Heritage,Germany,2,7,Resort,Cab,Couples Retreat,57551.25,3.9,Completed
+279,2026-01-19,Coorg,Karnataka,Nature,France,2,1,4 Star,Flight,Adventure Trip,24296.97,4.0,Completed
+280,2025-07-06,Manali,Himachal Pradesh,Adventure,USA,4,2,4 Star,Car,Adventure Trip,58631.13,4.0,Completed
+281,2026-06-13,Jaipur,Rajasthan,Heritage,Singapore,4,6,3 Star,Car,Weekend Escape,81105.46,4.4,Completed
+282,2025-04-03,Udaipur,Rajasthan,Heritage,Canada,4,10,3 Star,Cab,Weekend Escape,191995.06,4.6,Completed
+283,2026-06-22,Pondicherry,Puducherry,Beach,Japan,2,8,4 Star,Flight,Adventure Trip,81987.62,3.5,Confirmed
+284,2025-05-04,Pondicherry,Puducherry,Beach,UK,2,4,3 Star,Train,Weekend Escape,44484.36,4.3,Completed
+285,2025-05-27,Rishikesh,Uttarakhand,Adventure,Australia,3,2,Budget,Car,Heritage Tour,33891.8,4.3,Confirmed
+286,2026-05-26,Kochi,Kerala,Cultural,USA,4,3,3 Star,Cab,Heritage Tour,83182.23,4.8,Completed
+287,2025-04-19,Goa,Goa,Beach,Australia,5,6,5 Star,Bus,Adventure Trip,138813.15,4.1,Completed
+288,2026-01-02,Kochi,Kerala,Cultural,Singapore,6,4,Budget,Car,Couples Retreat,115912.38,4.4,Confirmed
+289,2025-10-10,Manali,Himachal Pradesh,Adventure,France,6,2,3 Star,Train,Couples Retreat,93132.41,4.5,Completed
+290,2025-03-07,Pondicherry,Puducherry,Beach,Germany,4,8,Resort,Bus,Weekend Escape,110373.23,4.1,Completed
+291,2026-05-13,Jaipur,Rajasthan,Heritage,Canada,5,1,3 Star,Train,Family Holiday,46821.01,3.5,Completed
+292,2025-09-12,Pondicherry,Puducherry,Beach,Canada,4,2,Budget,Train,Couples Retreat,51316.34,4.6,Cancelled
+293,2026-04-19,Coorg,Karnataka,Nature,Singapore,3,3,4 Star,Flight,Couples Retreat,25057.85,4.8,Completed
+294,2025-08-21,Munnar,Kerala,Nature,Germany,3,7,Resort,Flight,Nature Escape,63666.85,3.8,Completed
+295,2025-01-08,Manali,Himachal Pradesh,Adventure,Japan,3,5,5 Star,Car,Couples Retreat,56342.25,4.2,Completed
+296,2025-04-01,Coorg,Karnataka,Nature,Singapore,5,10,Resort,Bus,Couples Retreat,203791.72,4.8,Completed
+297,2025-09-21,Udaipur,Rajasthan,Heritage,Australia,3,5,3 Star,Train,Heritage Tour,86591.94,4.6,Completed
+298,2025-11-22,Jaipur,Rajasthan,Heritage,India,6,8,4 Star,Bus,Adventure Trip,180151.43,3.7,Completed
+299,2025-07-11,Munnar,Kerala,Nature,Canada,6,8,4 Star,Cab,Couples Retreat,244696.92,4.5,Completed
+300,2025-05-24,Manali,Himachal Pradesh,Adventure,Canada,2,6,Budget,Train,Couples Retreat,46118.17,4.2,Completed
+301,2025-11-12,Manali,Himachal Pradesh,Adventure,Japan,3,8,Budget,Car,Weekend Escape,117202.79,4.5,Confirmed
+302,2026-05-04,Kochi,Kerala,Cultural,Canada,3,7,Budget,Train,Family Holiday,106988.14,4.3,Cancelled
+303,2026-03-05,Udaipur,Rajasthan,Heritage,UK,1,8,4 Star,Train,Couples Retreat,28952.84,4.3,Completed
+304,2025-06-16,Goa,Goa,Beach,UK,5,7,5 Star,Car,Adventure Trip,177393.08,5.0,Completed
+305,2025-07-24,Udaipur,Rajasthan,Heritage,India,3,9,3 Star,Flight,Nature Escape,67318.64,4.5,Completed
+306,2025-04-13,Coorg,Karnataka,Nature,Japan,3,3,Budget,Flight,Couples Retreat,58627.4,5.0,Completed
+307,2026-05-11,Kochi,Kerala,Cultural,UK,3,8,4 Star,Train,Family Holiday,131225.51,4.1,Completed
+308,2025-05-07,Ooty,Tamil Nadu,Hill Station,Japan,5,3,Budget,Bus,Nature Escape,67410.64,4.5,Confirmed
+309,2025-09-25,Coorg,Karnataka,Nature,Japan,1,10,Budget,Flight,Nature Escape,41321.36,4.7,Completed
+310,2025-09-16,Jaipur,Rajasthan,Heritage,Germany,6,1,4 Star,Car,Nature Escape,57632.23,4.6,Completed
+311,2025-05-14,Goa,Goa,Beach,Canada,6,10,Budget,Bus,Weekend Escape,262224.38,3.8,Confirmed
+312,2025-07-12,Kochi,Kerala,Cultural,Australia,2,1,Resort,Car,Family Holiday,21825.23,3.9,Completed
+313,2025-01-22,Goa,Goa,Beach,USA,5,8,3 Star,Flight,Heritage Tour,112657.39,4.8,Completed
+314,2025-10-09,Pondicherry,Puducherry,Beach,India,1,3,Budget,Bus,Couples Retreat,17091.42,4.0,Completed
+315,2025-04-28,Ooty,Tamil Nadu,Hill Station,India,2,3,4 Star,Bus,Adventure Trip,36006.76,4.3,Completed
+316,2025-04-13,Kochi,Kerala,Cultural,France,3,7,5 Star,Car,Nature Escape,96256.94,4.0,Completed
+317,2025-02-28,Jaipur,Rajasthan,Heritage,USA,4,10,5 Star,Cab,Nature Escape,139859.22,4.4,Confirmed
+318,2025-05-16,Pondicherry,Puducherry,Beach,USA,4,8,Budget,Flight,Couples Retreat,117905.88,3.8,Confirmed
+319,2026-05-25,Rishikesh,Uttarakhand,Adventure,Japan,2,6,Resort,Cab,Nature Escape,48958.61,4.2,Completed
+320,2026-01-05,Coorg,Karnataka,Nature,Japan,1,1,3 Star,Cab,Adventure Trip,14675.27,4.1,Completed
+321,2026-04-11,Munnar,Kerala,Nature,Singapore,3,1,Resort,Train,Heritage Tour,30387.43,4.4,Confirmed
+322,2026-03-03,Pondicherry,Puducherry,Beach,France,3,2,5 Star,Flight,Weekend Escape,26591.5,4.8,Completed
+323,2025-03-26,Rishikesh,Uttarakhand,Adventure,Japan,6,5,Resort,Cab,Family Holiday,141252.67,4.0,Confirmed
+324,2026-03-11,Coorg,Karnataka,Nature,Japan,5,8,4 Star,Car,Weekend Escape,112416.63,4.9,Completed
+325,2025-12-27,Manali,Himachal Pradesh,Adventure,Canada,5,6,Budget,Flight,Family Holiday,135791.6,4.3,Completed
+326,2025-07-07,Goa,Goa,Beach,UAE,2,8,3 Star,Bus,Weekend Escape,64110.8,4.0,Completed
+327,2025-04-25,Pondicherry,Puducherry,Beach,France,6,10,Resort,Train,Adventure Trip,143275.63,4.0,Completed
+328,2026-05-25,Jaipur,Rajasthan,Heritage,Japan,2,3,Budget,Car,Nature Escape,40495.0,4.2,Completed
+329,2026-01-14,Rishikesh,Uttarakhand,Adventure,Germany,3,7,4 Star,Bus,Adventure Trip,90745.64,3.7,Completed
+330,2026-06-28,Udaipur,Rajasthan,Heritage,Canada,6,4,3 Star,Train,Heritage Tour,137623.82,3.9,Confirmed
+331,2025-05-23,Jaipur,Rajasthan,Heritage,Canada,5,6,Budget,Bus,Heritage Tour,124103.2,4.2,Completed
+332,2026-06-10,Kochi,Kerala,Cultural,India,5,2,Budget,Car,Family Holiday,35391.52,4.0,Completed
+333,2025-06-10,Manali,Himachal Pradesh,Adventure,UK,1,5,3 Star,Cab,Weekend Escape,19368.61,3.9,Completed
+334,2025-08-24,Coorg,Karnataka,Nature,UAE,2,9,4 Star,Flight,Adventure Trip,67996.69,4.0,Cancelled
+335,2025-11-18,Ooty,Tamil Nadu,Hill Station,India,6,5,3 Star,Cab,Adventure Trip,179204.42,4.2,Completed
+336,2026-06-24,Rishikesh,Uttarakhand,Adventure,Germany,6,4,4 Star,Car,Family Holiday,124485.98,3.8,Cancelled
+337,2026-05-04,Kochi,Kerala,Cultural,India,4,5,Resort,Bus,Family Holiday,79776.5,4.8,Confirmed
+338,2025-02-05,Udaipur,Rajasthan,Heritage,Japan,1,10,4 Star,Car,Heritage Tour,33523.97,4.4,Completed
+339,2026-05-08,Jaipur,Rajasthan,Heritage,Canada,1,9,3 Star,Car,Heritage Tour,30414.84,4.4,Completed
+340,2025-12-10,Munnar,Kerala,Nature,Japan,5,8,Resort,Flight,Weekend Escape,167361.97,4.6,Confirmed
+341,2025-08-02,Udaipur,Rajasthan,Heritage,UAE,1,7,4 Star,Cab,Nature Escape,26589.8,4.5,Confirmed
+342,2026-03-16,Ooty,Tamil Nadu,Hill Station,Australia,6,4,4 Star,Cab,Weekend Escape,126856.97,4.0,Cancelled
+343,2026-06-18,Ooty,Tamil Nadu,Hill Station,USA,2,4,5 Star,Flight,Family Holiday,42192.32,5.0,Completed
+344,2025-03-24,Jaipur,Rajasthan,Heritage,India,4,6,Budget,Flight,Weekend Escape,78250.12,4.3,Completed
+345,2025-08-09,Kochi,Kerala,Cultural,UAE,4,7,5 Star,Bus,Weekend Escape,87759.34,5.0,Completed
+346,2025-02-23,Goa,Goa,Beach,Singapore,5,2,4 Star,Bus,Heritage Tour,66446.3,4.4,Completed
+347,2026-01-27,Ooty,Tamil Nadu,Hill Station,France,2,9,3 Star,Train,Nature Escape,65463.26,3.4,Completed
+348,2025-12-01,Coorg,Karnataka,Nature,Canada,2,2,Budget,Flight,Heritage Tour,28414.12,4.1,Confirmed
+349,2025-10-07,Udaipur,Rajasthan,Heritage,Germany,4,9,3 Star,Train,Family Holiday,115036.87,4.4,Confirmed
+350,2025-02-28,Coorg,Karnataka,Nature,France,6,9,Budget,Bus,Nature Escape,111793.57,4.6,Completed
+351,2026-04-11,Udaipur,Rajasthan,Heritage,UK,6,4,Budget,Bus,Heritage Tour,69159.58,4.0,Completed
+352,2025-05-19,Rishikesh,Uttarakhand,Adventure,Singapore,3,7,3 Star,Flight,Couples Retreat,60024.0,4.4,Completed
+353,2026-02-09,Udaipur,Rajasthan,Heritage,UK,6,6,5 Star,Car,Adventure Trip,123140.22,4.1,Completed
+354,2025-09-28,Jaipur,Rajasthan,Heritage,Canada,2,5,Budget,Flight,Weekend Escape,55526.09,4.3,Confirmed
+355,2026-01-25,Rishikesh,Uttarakhand,Adventure,Germany,1,9,4 Star,Cab,Heritage Tour,34586.2,4.2,Completed
+356,2025-10-05,Pondicherry,Puducherry,Beach,Canada,5,2,5 Star,Bus,Heritage Tour,41949.0,4.6,Cancelled
+357,2025-06-25,Coorg,Karnataka,Nature,UK,4,3,3 Star,Cab,Heritage Tour,85859.3,4.3,Completed
+358,2025-08-25,Pondicherry,Puducherry,Beach,Germany,1,5,4 Star,Train,Weekend Escape,24262.22,3.9,Confirmed
+359,2026-01-16,Pondicherry,Puducherry,Beach,India,1,6,Budget,Cab,Nature Escape,32934.49,4.3,Completed
+360,2026-01-12,Rishikesh,Uttarakhand,Adventure,USA,5,5,5 Star,Train,Heritage Tour,115641.52,4.8,Completed
+361,2026-04-20,Ooty,Tamil Nadu,Hill Station,Canada,2,8,3 Star,Train,Weekend Escape,57225.21,4.5,Completed
+362,2025-04-22,Munnar,Kerala,Nature,UAE,3,2,5 Star,Car,Adventure Trip,26551.61,4.5,Confirmed
+363,2025-01-08,Ooty,Tamil Nadu,Hill Station,UK,5,10,3 Star,Train,Nature Escape,197128.9,4.5,Confirmed
+364,2026-05-13,Rishikesh,Uttarakhand,Adventure,Japan,6,1,4 Star,Flight,Family Holiday,87578.18,4.5,Confirmed
+365,2025-06-08,Kochi,Kerala,Cultural,Japan,2,10,3 Star,Cab,Nature Escape,66456.34,4.0,Completed
+366,2025-03-08,Kochi,Kerala,Cultural,UAE,2,2,Budget,Train,Heritage Tour,30801.54,3.6,Completed
+367,2025-05-20,Goa,Goa,Beach,UK,4,10,Resort,Flight,Heritage Tour,130368.43,4.2,Completed
+368,2025-01-25,Kochi,Kerala,Cultural,Canada,4,6,Budget,Cab,Adventure Trip,90299.68,4.4,Confirmed
+369,2026-01-12,Rishikesh,Uttarakhand,Adventure,Japan,1,7,3 Star,Bus,Adventure Trip,36046.56,4.8,Completed
+370,2025-09-07,Ooty,Tamil Nadu,Hill Station,India,5,9,Budget,Cab,Weekend Escape,136484.06,4.6,Confirmed
+371,2026-02-12,Goa,Goa,Beach,UK,4,10,4 Star,Bus,Heritage Tour,129870.79,4.3,Completed
+372,2026-02-18,Coorg,Karnataka,Nature,France,2,6,Resort,Cab,Adventure Trip,37540.03,4.9,Completed
+373,2026-01-24,Jaipur,Rajasthan,Heritage,USA,6,4,5 Star,Train,Weekend Escape,89440.19,4.1,Completed
+374,2025-02-06,Kochi,Kerala,Cultural,India,1,3,5 Star,Cab,Adventure Trip,10676.66,4.8,Completed
+375,2025-02-24,Kochi,Kerala,Cultural,UAE,5,9,4 Star,Cab,Weekend Escape,234519.92,4.1,Completed
+376,2026-05-10,Munnar,Kerala,Nature,India,5,9,Resort,Train,Heritage Tour,103387.44,4.0,Completed
+377,2025-01-06,Goa,Goa,Beach,Australia,4,6,5 Star,Car,Heritage Tour,61583.32,4.1,Completed
+378,2026-06-19,Udaipur,Rajasthan,Heritage,Singapore,3,4,Resort,Train,Adventure Trip,73198.51,3.5,Completed
+379,2026-02-17,Goa,Goa,Beach,Canada,1,9,4 Star,Bus,Weekend Escape,44466.17,4.8,Completed
+380,2026-03-13,Rishikesh,Uttarakhand,Adventure,France,2,6,5 Star,Car,Heritage Tour,60957.47,3.9,Completed
+381,2026-01-21,Munnar,Kerala,Nature,Germany,3,7,4 Star,Cab,Heritage Tour,61692.24,4.4,Completed
+382,2025-11-03,Coorg,Karnataka,Nature,UK,4,6,4 Star,Train,Heritage Tour,97883.91,4.5,Completed
+383,2025-07-16,Munnar,Kerala,Nature,Germany,6,4,4 Star,Train,Family Holiday,80960.38,4.2,Completed
+384,2025-03-22,Pondicherry,Puducherry,Beach,Japan,1,9,Budget,Car,Couples Retreat,35925.71,4.2,Cancelled
+385,2025-09-16,Jaipur,Rajasthan,Heritage,Canada,3,7,3 Star,Cab,Family Holiday,63465.3,3.9,Completed
+386,2026-01-28,Jaipur,Rajasthan,Heritage,France,1,9,5 Star,Bus,Nature Escape,22042.02,4.4,Completed
+387,2025-04-11,Udaipur,Rajasthan,Heritage,Japan,3,3,Resort,Bus,Family Holiday,54331.52,4.2,Completed
+388,2026-02-23,Udaipur,Rajasthan,Heritage,Singapore,4,5,5 Star,Train,Heritage Tour,68924.15,4.6,Completed
+389,2025-04-24,Manali,Himachal Pradesh,Adventure,Germany,5,7,5 Star,Train,Family Holiday,176291.71,4.3,Completed
+390,2025-05-28,Coorg,Karnataka,Nature,Canada,6,6,5 Star,Bus,Couples Retreat,157023.12,4.4,Completed
+391,2025-06-02,Munnar,Kerala,Nature,Australia,4,2,5 Star,Bus,Couples Retreat,52337.45,4.6,Completed
+392,2025-04-12,Rishikesh,Uttarakhand,Adventure,Germany,5,10,Resort,Train,Couples Retreat,165825.96,4.2,Completed
+393,2026-03-03,Kochi,Kerala,Cultural,Japan,3,8,3 Star,Train,Nature Escape,106981.99,4.0,Confirmed
+394,2025-03-03,Jaipur,Rajasthan,Heritage,Singapore,2,6,4 Star,Bus,Nature Escape,43746.03,4.0,Completed
+395,2026-03-25,Udaipur,Rajasthan,Heritage,Japan,5,8,5 Star,Train,Family Holiday,174485.92,4.4,Completed
+396,2025-03-07,Jaipur,Rajasthan,Heritage,UAE,1,2,Budget,Car,Heritage Tour,13154.36,4.6,Completed
+397,2025-03-04,Manali,Himachal Pradesh,Adventure,Japan,2,2,5 Star,Bus,Family Holiday,20201.82,4.2,Confirmed
+398,2025-01-02,Udaipur,Rajasthan,Heritage,Singapore,4,8,Resort,Bus,Heritage Tour,131622.54,4.2,Completed
+399,2025-06-19,Rishikesh,Uttarakhand,Adventure,France,6,10,5 Star,Cab,Nature Escape,228233.47,4.1,Confirmed
+400,2026-03-10,Udaipur,Rajasthan,Heritage,UAE,3,3,4 Star,Flight,Weekend Escape,55624.05,4.7,Completed
+401,2025-10-16,Coorg,Karnataka,Nature,India,6,8,5 Star,Bus,Weekend Escape,231829.02,3.8,Completed
+402,2025-07-14,Coorg,Karnataka,Nature,UAE,4,4,3 Star,Car,Adventure Trip,48975.67,4.0,Completed
+403,2026-05-25,Rishikesh,Uttarakhand,Adventure,Australia,3,9,4 Star,Car,Family Holiday,117474.62,4.2,Completed
+404,2025-09-23,Rishikesh,Uttarakhand,Adventure,France,2,6,Budget,Train,Weekend Escape,56758.69,4.9,Cancelled
+405,2025-10-09,Jaipur,Rajasthan,Heritage,France,6,1,3 Star,Flight,Family Holiday,40723.97,3.8,Completed
+406,2025-12-15,Ooty,Tamil Nadu,Hill Station,Singapore,1,3,Budget,Bus,Adventure Trip,12295.88,4.7,Completed
+407,2025-09-27,Kochi,Kerala,Cultural,India,1,4,5 Star,Car,Family Holiday,17646.17,3.7,Completed
+408,2025-07-16,Kochi,Kerala,Cultural,Australia,3,3,Budget,Cab,Heritage Tour,38449.32,4.5,Completed
+409,2025-12-02,Munnar,Kerala,Nature,USA,2,7,4 Star,Flight,Family Holiday,67679.95,4.1,Cancelled
+410,2026-04-23,Rishikesh,Uttarakhand,Adventure,UK,3,2,3 Star,Train,Adventure Trip,36210.99,4.5,Confirmed
+411,2025-02-02,Udaipur,Rajasthan,Heritage,UK,6,9,Budget,Train,Adventure Trip,181845.87,4.5,Confirmed
+412,2026-03-24,Munnar,Kerala,Nature,India,6,7,4 Star,Train,Couples Retreat,210233.18,3.7,Completed
+413,2025-10-18,Pondicherry,Puducherry,Beach,Germany,5,3,Resort,Bus,Couples Retreat,80962.19,4.8,Completed
+414,2025-03-17,Jaipur,Rajasthan,Heritage,France,3,5,Resort,Bus,Adventure Trip,47799.9,3.6,Completed
+415,2025-06-01,Rishikesh,Uttarakhand,Adventure,Singapore,5,4,4 Star,Flight,Nature Escape,134470.75,4.6,Completed
+416,2025-05-20,Manali,Himachal Pradesh,Adventure,Singapore,4,6,Budget,Flight,Heritage Tour,93365.9,4.9,Confirmed
+417,2025-06-28,Ooty,Tamil Nadu,Hill Station,Germany,1,8,3 Star,Flight,Weekend Escape,34599.22,4.1,Completed
+418,2025-09-02,Udaipur,Rajasthan,Heritage,Germany,5,2,Budget,Train,Nature Escape,83074.47,4.0,Completed
+419,2025-02-12,Coorg,Karnataka,Nature,UAE,3,1,Resort,Bus,Heritage Tour,16836.38,4.0,Cancelled
+420,2025-04-04,Munnar,Kerala,Nature,Canada,4,4,3 Star,Cab,Nature Escape,68805.64,5.0,Completed
+421,2026-06-14,Goa,Goa,Beach,Japan,3,8,5 Star,Flight,Family Holiday,111377.54,3.8,Completed
+422,2026-03-12,Udaipur,Rajasthan,Heritage,Canada,3,6,5 Star,Car,Nature Escape,58140.35,4.3,Completed
+423,2026-01-25,Coorg,Karnataka,Nature,Australia,3,8,5 Star,Car,Weekend Escape,117973.64,4.0,Cancelled
+424,2025-10-01,Manali,Himachal Pradesh,Adventure,Germany,2,6,Budget,Bus,Heritage Tour,50680.08,4.1,Completed
+425,2025-04-02,Pondicherry,Puducherry,Beach,Singapore,2,3,4 Star,Bus,Heritage Tour,23953.74,4.2,Completed
+426,2025-07-24,Goa,Goa,Beach,Singapore,4,3,5 Star,Cab,Weekend Escape,61013.14,4.8,Completed
+427,2026-01-03,Ooty,Tamil Nadu,Hill Station,Singapore,3,7,5 Star,Flight,Family Holiday,105525.2,4.8,Completed
+428,2025-02-10,Coorg,Karnataka,Nature,India,3,9,Resort,Train,Couples Retreat,91911.89,4.1,Completed
+429,2026-01-15,Rishikesh,Uttarakhand,Adventure,Japan,5,2,3 Star,Car,Couples Retreat,59808.84,4.1,Completed
+430,2026-06-13,Manali,Himachal Pradesh,Adventure,USA,4,9,5 Star,Train,Family Holiday,119612.68,4.7,Completed
+431,2025-07-18,Rishikesh,Uttarakhand,Adventure,Canada,2,4,Budget,Bus,Adventure Trip,41154.77,4.8,Completed
+432,2025-12-07,Udaipur,Rajasthan,Heritage,Singapore,5,1,4 Star,Train,Couples Retreat,75208.86,4.7,Completed
+433,2025-05-15,Ooty,Tamil Nadu,Hill Station,Germany,2,6,3 Star,Flight,Weekend Escape,52781.76,4.2,Confirmed
+434,2025-10-01,Udaipur,Rajasthan,Heritage,USA,3,8,5 Star,Flight,Couples Retreat,71864.58,4.2,Completed
+435,2026-05-25,Manali,Himachal Pradesh,Adventure,Canada,4,10,3 Star,Flight,Adventure Trip,157856.52,4.6,Completed
+436,2025-09-02,Pondicherry,Puducherry,Beach,India,1,7,4 Star,Bus,Weekend Escape,21046.92,4.4,Completed
+437,2025-08-13,Coorg,Karnataka,Nature,USA,3,8,Resort,Cab,Weekend Escape,69393.84,3.5,Completed
+438,2025-08-17,Manali,Himachal Pradesh,Adventure,Singapore,4,7,3 Star,Flight,Couples Retreat,118932.87,4.6,Completed
+439,2026-05-09,Ooty,Tamil Nadu,Hill Station,Australia,4,1,Resort,Bus,Family Holiday,51803.09,4.3,Completed
+440,2025-08-14,Munnar,Kerala,Nature,Japan,2,7,4 Star,Cab,Couples Retreat,46447.56,4.2,Completed
+441,2026-06-22,Munnar,Kerala,Nature,UK,3,9,3 Star,Car,Family Holiday,112314.65,4.4,Completed
+442,2025-04-06,Udaipur,Rajasthan,Heritage,UK,6,1,4 Star,Car,Adventure Trip,72522.34,4.5,Confirmed
+443,2025-09-05,Munnar,Kerala,Nature,USA,2,3,Budget,Cab,Heritage Tour,29523.02,4.4,Completed
+444,2025-12-03,Pondicherry,Puducherry,Beach,UK,5,10,5 Star,Bus,Family Holiday,227684.56,4.6,Completed
+445,2025-07-08,Ooty,Tamil Nadu,Hill Station,UAE,1,5,5 Star,Train,Nature Escape,21622.83,4.4,Cancelled
+446,2026-03-28,Rishikesh,Uttarakhand,Adventure,France,6,6,5 Star,Train,Adventure Trip,114343.71,4.6,Completed
+447,2026-01-24,Udaipur,Rajasthan,Heritage,UAE,5,10,Resort,Cab,Heritage Tour,207219.92,4.5,Completed
+448,2025-02-08,Coorg,Karnataka,Nature,Canada,4,1,Resort,Car,Heritage Tour,60897.93,4.4,Completed
+449,2026-03-13,Manali,Himachal Pradesh,Adventure,Australia,4,3,5 Star,Bus,Heritage Tour,85137.9,4.7,Completed
+450,2025-03-24,Coorg,Karnataka,Nature,USA,2,10,Resort,Train,Adventure Trip,65824.38,4.1,Completed
+451,2025-07-15,Goa,Goa,Beach,Australia,3,3,Budget,Flight,Weekend Escape,57065.76,4.9,Completed
+452,2026-05-20,Jaipur,Rajasthan,Heritage,UAE,5,7,Budget,Train,Couples Retreat,149948.21,4.7,Completed
+453,2025-05-06,Ooty,Tamil Nadu,Hill Station,UAE,3,5,5 Star,Bus,Nature Escape,62002.05,4.4,Completed
+454,2025-01-15,Pondicherry,Puducherry,Beach,France,5,1,Resort,Car,Family Holiday,55563.74,4.3,Completed
+455,2026-03-03,Rishikesh,Uttarakhand,Adventure,Japan,1,4,Resort,Bus,Heritage Tour,23111.75,4.4,Completed
+456,2025-12-02,Jaipur,Rajasthan,Heritage,India,6,10,Resort,Bus,Couples Retreat,262125.23,4.6,Completed
+457,2025-06-06,Manali,Himachal Pradesh,Adventure,Japan,6,10,Resort,Cab,Family Holiday,305553.34,4.3,Completed
+458,2025-11-12,Kochi,Kerala,Cultural,USA,4,9,Budget,Bus,Adventure Trip,101579.28,4.4,Completed
+459,2026-05-14,Coorg,Karnataka,Nature,Germany,6,4,Resort,Flight,Weekend Escape,142942.71,4.2,Completed
+460,2025-10-14,Rishikesh,Uttarakhand,Adventure,Singapore,3,9,Resort,Cab,Couples Retreat,134053.56,4.3,Completed
+461,2026-04-16,Jaipur,Rajasthan,Heritage,Japan,2,5,3 Star,Flight,Weekend Escape,32304.46,4.9,Confirmed
+462,2026-02-14,Ooty,Tamil Nadu,Hill Station,Singapore,3,9,3 Star,Flight,Nature Escape,70691.23,4.8,Confirmed
+463,2025-10-10,Coorg,Karnataka,Nature,Canada,3,1,Budget,Bus,Couples Retreat,32534.31,5.0,Completed
+464,2025-11-22,Pondicherry,Puducherry,Beach,France,1,3,5 Star,Train,Nature Escape,18923.6,4.2,Confirmed
+465,2026-03-26,Kochi,Kerala,Cultural,India,5,5,Resort,Bus,Heritage Tour,98863.14,4.1,Confirmed
+466,2025-12-03,Jaipur,Rajasthan,Heritage,Australia,1,6,5 Star,Cab,Family Holiday,24803.8,3.7,Completed
+467,2025-10-23,Udaipur,Rajasthan,Heritage,India,3,7,Budget,Car,Family Holiday,82900.28,4.2,Completed
+468,2025-12-26,Ooty,Tamil Nadu,Hill Station,Germany,1,8,Resort,Flight,Adventure Trip,36280.67,4.8,Completed
+469,2026-04-24,Coorg,Karnataka,Nature,Australia,3,3,Budget,Cab,Nature Escape,53348.82,4.7,Confirmed
+470,2025-04-01,Manali,Himachal Pradesh,Adventure,India,6,10,Budget,Bus,Adventure Trip,259641.47,4.4,Completed
+471,2025-10-01,Rishikesh,Uttarakhand,Adventure,Australia,6,4,4 Star,Train,Family Holiday,101003.39,4.4,Completed
+472,2025-06-09,Goa,Goa,Beach,India,5,9,Resort,Flight,Family Holiday,172206.66,3.8,Completed
+473,2025-10-19,Munnar,Kerala,Nature,UK,1,5,Resort,Bus,Heritage Tour,17816.7,3.8,Completed
+474,2025-02-03,Kochi,Kerala,Cultural,UAE,2,10,Resort,Car,Heritage Tour,60564.61,4.5,Completed
+475,2026-06-03,Pondicherry,Puducherry,Beach,Japan,2,2,5 Star,Flight,Adventure Trip,27031.5,4.4,Confirmed
+476,2025-05-28,Rishikesh,Uttarakhand,Adventure,Australia,3,7,3 Star,Bus,Couples Retreat,67324.78,3.9,Completed
+477,2025-12-16,Pondicherry,Puducherry,Beach,UK,3,6,Resort,Cab,Family Holiday,71645.66,4.3,Completed
+478,2025-03-26,Manali,Himachal Pradesh,Adventure,Canada,4,7,Resort,Car,Family Holiday,120506.85,4.2,Cancelled
+479,2026-01-03,Udaipur,Rajasthan,Heritage,Germany,6,10,5 Star,Car,Heritage Tour,265041.77,4.4,Completed
+480,2026-04-04,Rishikesh,Uttarakhand,Adventure,Japan,4,6,Resort,Flight,Adventure Trip,91938.93,4.9,Completed
+481,2025-04-22,Rishikesh,Uttarakhand,Adventure,UAE,3,8,Budget,Flight,Family Holiday,121629.83,4.8,Completed
+482,2025-05-22,Jaipur,Rajasthan,Heritage,France,5,5,5 Star,Cab,Heritage Tour,92541.81,4.0,Confirmed
+483,2025-10-19,Manali,Himachal Pradesh,Adventure,UAE,6,6,Budget,Cab,Weekend Escape,159069.89,4.8,Completed
+484,2026-06-02,Ooty,Tamil Nadu,Hill Station,Canada,3,2,4 Star,Flight,Family Holiday,41202.0,3.7,Completed
+485,2026-01-13,Kochi,Kerala,Cultural,UAE,5,4,3 Star,Car,Family Holiday,72385.99,5.0,Completed
+486,2025-05-05,Ooty,Tamil Nadu,Hill Station,USA,6,1,3 Star,Car,Nature Escape,87238.25,4.0,Completed
+487,2026-02-28,Pondicherry,Puducherry,Beach,Japan,4,10,3 Star,Car,Heritage Tour,145384.39,4.1,Completed
+488,2025-01-19,Pondicherry,Puducherry,Beach,Germany,6,9,4 Star,Car,Heritage Tour,185451.03,4.5,Completed
+489,2026-04-23,Udaipur,Rajasthan,Heritage,USA,5,8,Budget,Train,Nature Escape,197206.95,5.0,Completed
+490,2025-03-17,Rishikesh,Uttarakhand,Adventure,USA,2,8,Budget,Cab,Heritage Tour,44297.15,4.3,Completed
+491,2025-01-16,Pondicherry,Puducherry,Beach,Canada,4,10,4 Star,Car,Couples Retreat,204724.7,4.3,Confirmed
+492,2025-10-24,Rishikesh,Uttarakhand,Adventure,Australia,1,8,Resort,Train,Heritage Tour,24274.39,4.4,Confirmed
+493,2025-01-10,Pondicherry,Puducherry,Beach,USA,2,9,Budget,Bus,Couples Retreat,43656.48,4.4,Completed
+494,2025-06-19,Jaipur,Rajasthan,Heritage,France,3,3,4 Star,Train,Adventure Trip,41104.81,4.3,Completed
+495,2025-03-05,Rishikesh,Uttarakhand,Adventure,UK,4,7,5 Star,Train,Nature Escape,109388.04,4.5,Completed
+496,2025-09-25,Goa,Goa,Beach,India,2,8,5 Star,Car,Couples Retreat,66857.01,5.0,Confirmed
+497,2025-08-13,Kochi,Kerala,Cultural,France,3,3,Resort,Car,Weekend Escape,50708.94,4.1,Completed
+498,2025-02-04,Coorg,Karnataka,Nature,Singapore,4,10,4 Star,Bus,Couples Retreat,103255.25,4.6,Completed
+499,2026-01-15,Munnar,Kerala,Nature,Japan,2,9,4 Star,Train,Couples Retreat,71237.3,4.4,Completed
+500,2025-04-22,Pondicherry,Puducherry,Beach,Singapore,2,5,4 Star,Train,Weekend Escape,23226.62,4.3,Confirmed
+501,2025-07-20,Goa,Goa,Beach,USA,1,10,3 Star,Car,Nature Escape,44395.22,4.4,Completed
+502,2025-06-09,Manali,Himachal Pradesh,Adventure,France,6,2,5 Star,Bus,Adventure Trip,95105.18,4.1,Completed
+503,2025-09-06,Goa,Goa,Beach,Australia,1,7,5 Star,Bus,Weekend Escape,25270.28,4.4,Cancelled
+504,2025-07-20,Kochi,Kerala,Cultural,UK,6,8,Budget,Train,Heritage Tour,202651.98,4.5,Completed
+505,2026-03-23,Manali,Himachal Pradesh,Adventure,USA,1,2,Budget,Cab,Nature Escape,11493.34,4.5,Completed
+506,2025-02-22,Kochi,Kerala,Cultural,Australia,2,6,5 Star,Cab,Weekend Escape,57095.36,4.2,Completed
+507,2026-02-13,Goa,Goa,Beach,Canada,2,1,5 Star,Car,Weekend Escape,28872.28,4.0,Completed
+508,2025-03-12,Coorg,Karnataka,Nature,Singapore,1,8,4 Star,Train,Family Holiday,35344.11,4.8,Completed
+509,2025-10-23,Kochi,Kerala,Cultural,USA,6,6,5 Star,Flight,Nature Escape,125211.45,4.4,Cancelled
+510,2025-08-16,Kochi,Kerala,Cultural,USA,5,5,5 Star,Cab,Adventure Trip,120857.97,4.4,Completed
+511,2025-11-26,Ooty,Tamil Nadu,Hill Station,UAE,1,4,Resort,Car,Nature Escape,23407.01,4.3,Completed
+512,2025-05-16,Ooty,Tamil Nadu,Hill Station,France,5,1,3 Star,Train,Weekend Escape,29034.7,4.1,Completed
+513,2025-04-15,Rishikesh,Uttarakhand,Adventure,UK,5,2,Budget,Flight,Adventure Trip,74323.58,4.6,Completed
+514,2026-01-11,Goa,Goa,Beach,Japan,5,3,4 Star,Train,Weekend Escape,77668.49,4.4,Completed
+515,2025-05-25,Kochi,Kerala,Cultural,UK,6,6,Resort,Train,Adventure Trip,125640.65,4.8,Completed
+516,2026-01-25,Jaipur,Rajasthan,Heritage,India,4,2,Budget,Flight,Family Holiday,69974.67,4.8,Completed
+517,2025-10-14,Pondicherry,Puducherry,Beach,UK,2,3,4 Star,Cab,Adventure Trip,38269.65,4.3,Completed
+518,2026-04-20,Goa,Goa,Beach,Australia,3,7,Budget,Cab,Family Holiday,76342.28,4.3,Cancelled
+519,2025-12-28,Coorg,Karnataka,Nature,Canada,2,8,3 Star,Bus,Weekend Escape,51621.03,4.0,Completed
+520,2025-06-06,Ooty,Tamil Nadu,Hill Station,India,6,6,4 Star,Train,Adventure Trip,128197.07,3.4,Confirmed
+521,2026-03-02,Goa,Goa,Beach,India,5,3,3 Star,Flight,Adventure Trip,63137.48,4.4,Completed
+522,2026-02-07,Udaipur,Rajasthan,Heritage,Germany,1,6,3 Star,Flight,Family Holiday,31688.2,4.8,Completed
+523,2025-08-03,Pondicherry,Puducherry,Beach,Japan,4,1,5 Star,Train,Family Holiday,45462.03,4.2,Completed
+524,2025-12-09,Munnar,Kerala,Nature,Singapore,2,1,Resort,Flight,Couples Retreat,25042.48,4.5,Completed
+525,2025-06-25,Udaipur,Rajasthan,Heritage,Germany,3,10,3 Star,Cab,Family Holiday,115157.47,4.4,Completed
+526,2025-07-19,Pondicherry,Puducherry,Beach,France,3,1,5 Star,Train,Family Holiday,32225.7,4.7,Confirmed
+527,2025-05-19,Ooty,Tamil Nadu,Hill Station,UAE,1,1,5 Star,Cab,Weekend Escape,9443.67,4.6,Completed
+528,2026-04-08,Goa,Goa,Beach,Canada,1,7,3 Star,Train,Couples Retreat,24602.43,3.8,Completed
+529,2026-04-22,Manali,Himachal Pradesh,Adventure,UK,6,8,Resort,Cab,Weekend Escape,243082.75,4.7,Completed
+530,2025-12-21,Pondicherry,Puducherry,Beach,India,6,2,5 Star,Bus,Heritage Tour,60620.21,4.8,Completed
+531,2026-06-19,Munnar,Kerala,Nature,USA,5,6,Budget,Cab,Nature Escape,92266.61,4.0,Completed
+532,2025-12-06,Coorg,Karnataka,Nature,USA,5,4,3 Star,Bus,Family Holiday,103303.63,4.6,Completed
+533,2025-07-25,Munnar,Kerala,Nature,Singapore,3,5,Resort,Car,Couples Retreat,43294.07,3.9,Confirmed
+534,2026-04-23,Coorg,Karnataka,Nature,Canada,3,8,Resort,Bus,Nature Escape,128252.84,4.5,Confirmed
+535,2025-03-07,Pondicherry,Puducherry,Beach,USA,1,7,3 Star,Bus,Weekend Escape,17789.07,4.2,Confirmed
+536,2026-05-21,Ooty,Tamil Nadu,Hill Station,Australia,4,9,3 Star,Car,Couples Retreat,131831.22,3.9,Completed
+537,2025-07-03,Ooty,Tamil Nadu,Hill Station,Germany,5,6,5 Star,Cab,Couples Retreat,148023.92,3.8,Completed
+538,2026-06-15,Pondicherry,Puducherry,Beach,Australia,5,3,4 Star,Train,Couples Retreat,63830.69,4.4,Completed
+539,2025-02-05,Udaipur,Rajasthan,Heritage,Australia,4,3,Resort,Train,Nature Escape,54984.18,4.6,Confirmed
+540,2025-05-06,Munnar,Kerala,Nature,USA,1,6,Resort,Train,Adventure Trip,17843.06,4.9,Completed
+541,2025-02-22,Udaipur,Rajasthan,Heritage,Singapore,2,6,5 Star,Cab,Family Holiday,43795.73,5.0,Completed
+542,2026-03-11,Jaipur,Rajasthan,Heritage,India,6,9,Resort,Bus,Nature Escape,227433.69,4.5,Completed
+543,2025-05-26,Rishikesh,Uttarakhand,Adventure,France,3,2,5 Star,Flight,Family Holiday,33270.88,4.9,Completed
+544,2025-12-03,Udaipur,Rajasthan,Heritage,India,5,4,Resort,Cab,Family Holiday,121853.41,4.4,Completed
+545,2025-03-18,Pondicherry,Puducherry,Beach,USA,5,7,3 Star,Car,Couples Retreat,147351.97,4.9,Completed
+546,2026-02-12,Kochi,Kerala,Cultural,Singapore,1,5,4 Star,Bus,Couples Retreat,31616.9,4.5,Completed
+547,2026-03-24,Kochi,Kerala,Cultural,France,3,3,5 Star,Car,Family Holiday,59402.25,4.6,Cancelled
+548,2026-05-11,Goa,Goa,Beach,Japan,4,2,Budget,Car,Nature Escape,59776.27,4.6,Completed
+549,2025-05-07,Jaipur,Rajasthan,Heritage,UAE,3,9,5 Star,Flight,Couples Retreat,119144.46,4.0,Completed
+550,2025-01-05,Manali,Himachal Pradesh,Adventure,Australia,6,8,Budget,Bus,Adventure Trip,158554.09,4.2,Completed
+551,2025-01-04,Manali,Himachal Pradesh,Adventure,France,1,10,4 Star,Cab,Adventure Trip,40717.03,4.1,Completed
+552,2025-04-12,Coorg,Karnataka,Nature,Japan,1,5,3 Star,Cab,Weekend Escape,16464.79,4.0,Completed
+553,2025-12-06,Ooty,Tamil Nadu,Hill Station,Australia,3,7,4 Star,Flight,Couples Retreat,73342.99,4.6,Completed
+554,2025-04-20,Jaipur,Rajasthan,Heritage,Canada,3,6,4 Star,Bus,Nature Escape,80121.89,4.5,Completed
+555,2025-12-27,Jaipur,Rajasthan,Heritage,India,2,9,4 Star,Bus,Adventure Trip,68619.95,4.5,Completed
+556,2025-07-26,Coorg,Karnataka,Nature,Japan,6,9,Resort,Cab,Nature Escape,216765.88,4.6,Completed
+557,2025-03-04,Jaipur,Rajasthan,Heritage,India,4,6,4 Star,Bus,Family Holiday,132755.7,3.8,Completed
+558,2025-10-01,Goa,Goa,Beach,Germany,2,3,3 Star,Bus,Family Holiday,35604.19,4.0,Completed
+559,2025-04-03,Ooty,Tamil Nadu,Hill Station,France,4,1,3 Star,Flight,Weekend Escape,45940.51,4.5,Completed
+560,2025-03-10,Ooty,Tamil Nadu,Hill Station,USA,1,10,3 Star,Cab,Family Holiday,25661.93,4.4,Completed
+561,2025-09-19,Udaipur,Rajasthan,Heritage,Singapore,2,9,Resort,Train,Heritage Tour,62624.66,4.3,Completed
+562,2025-07-10,Jaipur,Rajasthan,Heritage,Canada,1,2,3 Star,Cab,Nature Escape,14892.54,4.3,Completed
+563,2025-04-06,Udaipur,Rajasthan,Heritage,UAE,4,4,Resort,Train,Adventure Trip,74932.31,4.5,Completed
+564,2025-12-23,Manali,Himachal Pradesh,Adventure,Canada,6,1,Budget,Bus,Adventure Trip,45808.32,4.5,Completed
+565,2025-10-22,Pondicherry,Puducherry,Beach,Germany,5,7,4 Star,Car,Family Holiday,188490.9,4.6,Completed
+566,2025-01-22,Pondicherry,Puducherry,Beach,USA,4,8,Resort,Flight,Weekend Escape,85266.96,3.5,Completed
+567,2025-04-24,Jaipur,Rajasthan,Heritage,USA,3,4,4 Star,Train,Heritage Tour,65968.76,4.4,Completed
+568,2025-09-25,Kochi,Kerala,Cultural,Singapore,4,10,5 Star,Car,Heritage Tour,127347.74,4.7,Completed
+569,2025-09-16,Pondicherry,Puducherry,Beach,Germany,6,3,Budget,Flight,Nature Escape,52343.42,3.9,Completed
+570,2025-11-05,Manali,Himachal Pradesh,Adventure,Japan,5,2,Budget,Cab,Adventure Trip,62278.58,3.4,Completed
+571,2026-04-17,Manali,Himachal Pradesh,Adventure,Canada,3,9,Resort,Flight,Weekend Escape,145641.0,4.7,Confirmed
+572,2026-03-15,Ooty,Tamil Nadu,Hill Station,India,2,9,4 Star,Train,Adventure Trip,59218.14,4.6,Completed
+573,2025-04-19,Pondicherry,Puducherry,Beach,Canada,6,9,Resort,Car,Adventure Trip,189584.88,4.6,Completed
+574,2026-01-20,Udaipur,Rajasthan,Heritage,Australia,3,1,Budget,Cab,Weekend Escape,25120.32,4.5,Confirmed
+575,2025-01-25,Udaipur,Rajasthan,Heritage,UAE,1,7,4 Star,Bus,Adventure Trip,25805.42,4.4,Completed
+576,2025-03-28,Manali,Himachal Pradesh,Adventure,USA,3,3,Budget,Cab,Couples Retreat,40814.99,4.9,Completed
+577,2026-05-14,Manali,Himachal Pradesh,Adventure,India,6,8,Resort,Flight,Couples Retreat,158873.27,3.7,Completed
+578,2025-07-11,Pondicherry,Puducherry,Beach,Canada,6,6,3 Star,Cab,Couples Retreat,130259.65,4.0,Completed
+579,2025-03-27,Coorg,Karnataka,Nature,Germany,3,5,Budget,Bus,Heritage Tour,54145.24,4.3,Confirmed
+580,2025-04-19,Udaipur,Rajasthan,Heritage,Australia,1,10,Resort,Car,Adventure Trip,30135.74,4.2,Completed
+581,2025-10-17,Manali,Himachal Pradesh,Adventure,UAE,6,9,4 Star,Train,Adventure Trip,189301.06,3.7,Completed
+582,2025-01-21,Coorg,Karnataka,Nature,UK,5,8,3 Star,Car,Couples Retreat,201102.82,4.5,Completed
+583,2026-02-19,Ooty,Tamil Nadu,Hill Station,Canada,2,6,5 Star,Train,Family Holiday,40506.09,4.2,Completed
+584,2025-03-21,Munnar,Kerala,Nature,UAE,3,5,3 Star,Bus,Nature Escape,67101.34,4.7,Completed
+585,2025-07-01,Munnar,Kerala,Nature,Australia,4,8,Resort,Car,Adventure Trip,118022.34,4.5,Completed
+586,2025-09-22,Coorg,Karnataka,Nature,UK,6,1,5 Star,Flight,Weekend Escape,48121.42,4.5,Completed
+587,2025-03-14,Udaipur,Rajasthan,Heritage,USA,4,3,3 Star,Flight,Heritage Tour,87198.35,3.6,Confirmed
+588,2026-05-09,Pondicherry,Puducherry,Beach,USA,2,10,Budget,Bus,Couples Retreat,94143.73,4.3,Confirmed
+589,2025-08-14,Munnar,Kerala,Nature,UK,1,3,3 Star,Bus,Adventure Trip,18465.0,4.8,Completed
+590,2025-04-11,Coorg,Karnataka,Nature,UAE,4,4,4 Star,Train,Couples Retreat,70193.07,4.5,Completed
+591,2025-02-27,Ooty,Tamil Nadu,Hill Station,Germany,3,9,5 Star,Bus,Nature Escape,130014.17,4.4,Confirmed
+592,2026-03-13,Ooty,Tamil Nadu,Hill Station,UAE,3,5,Budget,Train,Couples Retreat,63037.52,4.2,Confirmed
+593,2025-11-26,Kochi,Kerala,Cultural,India,3,2,5 Star,Car,Nature Escape,47287.42,4.2,Confirmed
+594,2025-06-23,Manali,Himachal Pradesh,Adventure,Canada,1,6,5 Star,Cab,Nature Escape,31836.77,3.6,Completed
+595,2025-01-25,Ooty,Tamil Nadu,Hill Station,UK,6,8,3 Star,Flight,Adventure Trip,130673.05,4.2,Completed
+596,2025-05-28,Rishikesh,Uttarakhand,Adventure,UAE,3,8,5 Star,Train,Couples Retreat,70879.81,4.3,Completed
+597,2025-10-07,Goa,Goa,Beach,UAE,3,3,5 Star,Car,Heritage Tour,52933.86,4.8,Completed
+598,2025-03-15,Munnar,Kerala,Nature,Australia,6,3,Budget,Car,Heritage Tour,81084.78,4.1,Completed
+599,2025-12-06,Rishikesh,Uttarakhand,Adventure,USA,1,9,5 Star,Car,Nature Escape,30460.67,4.6,Confirmed
+600,2025-09-10,Pondicherry,Puducherry,Beach,UAE,2,7,3 Star,Cab,Family Holiday,70422.58,5.0,Completed
+601,2026-02-06,Kochi,Kerala,Cultural,UK,1,5,4 Star,Train,Heritage Tour,18924.38,3.9,Completed
+602,2026-04-05,Udaipur,Rajasthan,Heritage,UAE,6,4,5 Star,Car,Nature Escape,98457.4,4.1,Completed
+603,2025-02-11,Munnar,Kerala,Nature,France,3,10,Resort,Flight,Weekend Escape,89608.45,4.2,Completed
+604,2026-06-02,Rishikesh,Uttarakhand,Adventure,UK,3,3,Resort,Car,Couples Retreat,48586.95,4.7,Completed
+605,2026-05-14,Jaipur,Rajasthan,Heritage,Australia,1,6,Budget,Train,Adventure Trip,33640.05,4.3,Completed
+606,2025-09-20,Manali,Himachal Pradesh,Adventure,Canada,3,7,3 Star,Bus,Nature Escape,117854.15,3.5,Completed
+607,2026-03-02,Munnar,Kerala,Nature,UK,1,4,3 Star,Flight,Adventure Trip,18015.19,3.2,Confirmed
+608,2025-02-15,Udaipur,Rajasthan,Heritage,Canada,4,8,5 Star,Flight,Nature Escape,140676.63,4.8,Completed
+609,2025-10-06,Jaipur,Rajasthan,Heritage,Canada,3,10,Resort,Train,Heritage Tour,136437.59,4.4,Confirmed
+610,2025-08-25,Pondicherry,Puducherry,Beach,USA,3,1,4 Star,Flight,Adventure Trip,41531.18,4.1,Completed
+611,2025-11-05,Ooty,Tamil Nadu,Hill Station,USA,4,8,5 Star,Bus,Heritage Tour,128957.88,4.9,Completed
+612,2025-05-07,Ooty,Tamil Nadu,Hill Station,Australia,3,1,Budget,Cab,Heritage Tour,28074.58,4.5,Completed
+613,2026-01-03,Ooty,Tamil Nadu,Hill Station,Germany,2,7,5 Star,Bus,Nature Escape,67219.39,4.7,Completed
+614,2025-10-22,Rishikesh,Uttarakhand,Adventure,UK,3,2,4 Star,Cab,Family Holiday,49703.7,4.7,Completed
+615,2026-02-03,Kochi,Kerala,Cultural,Singapore,5,3,5 Star,Car,Weekend Escape,54722.56,4.1,Completed
+616,2025-05-16,Coorg,Karnataka,Nature,Canada,1,5,5 Star,Car,Weekend Escape,27260.6,4.4,Completed
+617,2025-05-22,Manali,Himachal Pradesh,Adventure,Germany,5,7,4 Star,Cab,Weekend Escape,159482.78,3.9,Completed
+618,2026-03-22,Rishikesh,Uttarakhand,Adventure,Australia,3,5,Resort,Flight,Heritage Tour,51066.45,4.3,Completed
+619,2025-06-27,Kochi,Kerala,Cultural,India,1,7,4 Star,Bus,Heritage Tour,33929.77,3.7,Completed
+620,2025-06-07,Jaipur,Rajasthan,Heritage,USA,6,10,4 Star,Flight,Adventure Trip,195073.37,4.6,Completed
+621,2025-06-21,Pondicherry,Puducherry,Beach,France,6,7,Resort,Car,Couples Retreat,202205.54,4.0,Completed
+622,2026-01-26,Manali,Himachal Pradesh,Adventure,USA,2,3,Budget,Train,Weekend Escape,40940.82,4.8,Completed
+623,2025-01-07,Pondicherry,Puducherry,Beach,UK,6,4,5 Star,Cab,Family Holiday,99641.26,4.6,Completed
+624,2025-05-24,Pondicherry,Puducherry,Beach,France,4,1,5 Star,Cab,Family Holiday,41215.63,4.7,Confirmed
+625,2025-02-11,Ooty,Tamil Nadu,Hill Station,USA,6,7,5 Star,Car,Nature Escape,185135.57,4.5,Completed
+626,2026-05-19,Rishikesh,Uttarakhand,Adventure,France,2,1,Resort,Flight,Adventure Trip,22433.21,4.3,Completed
+627,2026-02-16,Goa,Goa,Beach,France,5,6,5 Star,Car,Weekend Escape,103915.9,3.9,Completed
+628,2025-11-20,Pondicherry,Puducherry,Beach,UK,3,7,5 Star,Bus,Adventure Trip,108461.15,4.4,Completed
+629,2025-10-23,Goa,Goa,Beach,France,2,3,3 Star,Train,Heritage Tour,37157.92,4.8,Completed
+630,2026-06-02,Ooty,Tamil Nadu,Hill Station,Singapore,3,6,3 Star,Train,Heritage Tour,38934.76,4.2,Completed
+631,2025-08-04,Coorg,Karnataka,Nature,Germany,4,5,4 Star,Bus,Weekend Escape,104064.07,4.9,Confirmed
+632,2025-04-23,Ooty,Tamil Nadu,Hill Station,France,4,2,Budget,Cab,Heritage Tour,74931.34,3.9,Confirmed
+633,2025-02-17,Goa,Goa,Beach,UK,6,2,3 Star,Bus,Family Holiday,98388.87,4.4,Confirmed
+634,2025-05-21,Udaipur,Rajasthan,Heritage,Singapore,2,2,3 Star,Car,Adventure Trip,21327.24,3.9,Confirmed
+635,2026-04-11,Manali,Himachal Pradesh,Adventure,Canada,2,2,4 Star,Bus,Nature Escape,27185.2,4.2,Completed
+636,2026-02-26,Munnar,Kerala,Nature,UK,4,7,5 Star,Car,Heritage Tour,127797.54,4.2,Completed
+637,2025-05-25,Ooty,Tamil Nadu,Hill Station,Canada,1,2,4 Star,Bus,Adventure Trip,13195.65,4.9,Completed
+638,2025-05-19,Ooty,Tamil Nadu,Hill Station,Canada,3,7,5 Star,Cab,Couples Retreat,90326.43,4.6,Completed
+639,2025-09-17,Rishikesh,Uttarakhand,Adventure,UK,6,7,5 Star,Train,Heritage Tour,184752.26,4.0,Confirmed
+640,2026-01-25,Munnar,Kerala,Nature,Australia,1,1,Resort,Bus,Adventure Trip,13220.72,4.5,Completed
+641,2026-06-10,Munnar,Kerala,Nature,USA,5,9,4 Star,Cab,Couples Retreat,182689.0,5.0,Completed
+642,2025-08-27,Manali,Himachal Pradesh,Adventure,UAE,5,2,Budget,Bus,Couples Retreat,64120.82,4.5,Completed
+643,2025-04-15,Manali,Himachal Pradesh,Adventure,Japan,6,1,5 Star,Bus,Family Holiday,93369.52,3.6,Completed
+644,2026-06-28,Rishikesh,Uttarakhand,Adventure,Germany,3,5,4 Star,Cab,Nature Escape,47009.28,4.0,Completed
+645,2025-04-11,Coorg,Karnataka,Nature,Japan,2,6,5 Star,Flight,Family Holiday,61794.56,4.5,Confirmed
+646,2026-04-07,Pondicherry,Puducherry,Beach,USA,3,9,5 Star,Cab,Heritage Tour,97599.2,4.4,Completed
+647,2026-04-21,Kochi,Kerala,Cultural,France,6,8,5 Star,Train,Family Holiday,180900.61,3.4,Completed
+648,2026-05-04,Munnar,Kerala,Nature,France,4,1,3 Star,Cab,Couples Retreat,33961.06,4.6,Confirmed
+649,2025-04-04,Udaipur,Rajasthan,Heritage,Japan,3,1,Resort,Train,Weekend Escape,43091.34,4.2,Confirmed
+650,2025-05-26,Rishikesh,Uttarakhand,Adventure,UAE,1,5,4 Star,Train,Family Holiday,26122.5,4.8,Completed
+651,2025-12-03,Ooty,Tamil Nadu,Hill Station,UAE,4,10,4 Star,Cab,Adventure Trip,197398.05,3.8,Completed
+652,2025-05-17,Pondicherry,Puducherry,Beach,France,6,8,3 Star,Bus,Weekend Escape,229584.3,4.4,Completed
+653,2025-08-13,Udaipur,Rajasthan,Heritage,Canada,1,8,4 Star,Flight,Family Holiday,35403.43,4.5,Completed
+654,2025-04-21,Coorg,Karnataka,Nature,USA,2,10,Resort,Cab,Weekend Escape,97478.21,3.8,Completed
+655,2026-05-01,Goa,Goa,Beach,Canada,2,1,4 Star,Train,Family Holiday,28707.86,4.2,Completed
+656,2025-11-13,Rishikesh,Uttarakhand,Adventure,India,4,1,4 Star,Car,Family Holiday,53475.33,4.3,Completed
+657,2025-09-03,Goa,Goa,Beach,USA,5,3,4 Star,Train,Family Holiday,53042.5,4.2,Completed
+658,2025-11-06,Ooty,Tamil Nadu,Hill Station,India,3,7,Budget,Bus,Family Holiday,72441.54,4.7,Completed
+659,2025-04-02,Munnar,Kerala,Nature,Germany,5,10,3 Star,Car,Heritage Tour,209199.17,4.5,Completed
+660,2026-02-03,Pondicherry,Puducherry,Beach,India,4,4,Budget,Bus,Heritage Tour,102516.98,4.4,Completed
+661,2026-06-21,Jaipur,Rajasthan,Heritage,Australia,5,7,5 Star,Flight,Nature Escape,148814.84,4.6,Completed
+662,2025-08-18,Kochi,Kerala,Cultural,Canada,4,1,Budget,Car,Heritage Tour,55890.38,4.7,Completed
+663,2026-04-09,Rishikesh,Uttarakhand,Adventure,Australia,6,7,4 Star,Train,Heritage Tour,193011.34,4.6,Completed
+664,2025-03-13,Goa,Goa,Beach,UK,6,9,4 Star,Car,Family Holiday,237727.61,4.7,Completed
+665,2025-11-21,Manali,Himachal Pradesh,Adventure,France,3,4,4 Star,Bus,Family Holiday,58036.86,4.9,Completed
+666,2025-01-20,Pondicherry,Puducherry,Beach,India,1,3,5 Star,Cab,Nature Escape,20088.67,4.4,Completed
+667,2025-03-18,Ooty,Tamil Nadu,Hill Station,France,6,2,4 Star,Car,Heritage Tour,58864.17,4.4,Completed
+668,2026-03-12,Munnar,Kerala,Nature,France,1,4,Budget,Bus,Nature Escape,22461.14,3.8,Completed
+669,2025-10-26,Munnar,Kerala,Nature,Germany,4,6,Budget,Bus,Adventure Trip,132419.82,4.4,Confirmed
+670,2026-01-04,Manali,Himachal Pradesh,Adventure,Japan,5,8,3 Star,Cab,Family Holiday,171444.45,4.6,Completed
+671,2025-06-03,Rishikesh,Uttarakhand,Adventure,UK,6,2,3 Star,Bus,Heritage Tour,111475.25,4.3,Confirmed
+672,2025-01-23,Coorg,Karnataka,Nature,Japan,3,9,5 Star,Flight,Adventure Trip,120805.44,4.0,Completed
+673,2025-11-14,Kochi,Kerala,Cultural,Australia,1,9,5 Star,Car,Couples Retreat,29504.32,4.3,Confirmed
+674,2026-06-15,Udaipur,Rajasthan,Heritage,India,4,4,4 Star,Flight,Heritage Tour,106252.74,4.2,Completed
+675,2026-02-03,Munnar,Kerala,Nature,Germany,2,6,4 Star,Flight,Nature Escape,45283.74,4.3,Confirmed
+676,2025-11-27,Manali,Himachal Pradesh,Adventure,Germany,1,8,3 Star,Bus,Weekend Escape,37521.83,4.4,Completed
+677,2025-03-25,Rishikesh,Uttarakhand,Adventure,Japan,4,2,5 Star,Cab,Weekend Escape,29179.33,4.7,Confirmed
+678,2025-03-26,Jaipur,Rajasthan,Heritage,India,4,1,4 Star,Cab,Nature Escape,27898.73,4.4,Completed
+679,2025-02-10,Kochi,Kerala,Cultural,UAE,1,10,5 Star,Train,Heritage Tour,44853.36,3.9,Completed
+680,2025-04-11,Ooty,Tamil Nadu,Hill Station,France,5,6,Resort,Train,Weekend Escape,93420.87,4.5,Completed
+681,2025-07-19,Jaipur,Rajasthan,Heritage,Canada,3,6,5 Star,Car,Nature Escape,71731.93,4.4,Completed
+682,2026-02-17,Udaipur,Rajasthan,Heritage,Australia,5,9,3 Star,Train,Adventure Trip,133966.24,4.4,Completed
+683,2025-01-17,Rishikesh,Uttarakhand,Adventure,UK,1,4,Resort,Cab,Weekend Escape,15488.05,4.6,Confirmed
+684,2025-11-07,Pondicherry,Puducherry,Beach,France,5,6,Resort,Cab,Couples Retreat,129047.21,5.0,Completed
+685,2026-03-26,Ooty,Tamil Nadu,Hill Station,France,2,1,3 Star,Train,Adventure Trip,17357.28,4.3,Completed
+686,2026-01-07,Kochi,Kerala,Cultural,UK,1,6,Budget,Flight,Couples Retreat,13383.4,3.4,Completed
+687,2025-07-21,Rishikesh,Uttarakhand,Adventure,Singapore,1,1,3 Star,Train,Couples Retreat,12913.36,4.3,Completed
+688,2025-06-07,Ooty,Tamil Nadu,Hill Station,UK,3,2,Budget,Train,Adventure Trip,52469.6,4.0,Completed
+689,2025-07-10,Pondicherry,Puducherry,Beach,Germany,3,6,3 Star,Cab,Heritage Tour,102534.75,4.5,Confirmed
+690,2025-07-07,Coorg,Karnataka,Nature,UAE,6,6,4 Star,Cab,Adventure Trip,182351.77,4.4,Completed
+691,2025-07-28,Coorg,Karnataka,Nature,Australia,2,6,3 Star,Flight,Nature Escape,65371.04,4.9,Confirmed
+692,2025-07-24,Goa,Goa,Beach,France,6,10,Budget,Train,Heritage Tour,215206.99,3.5,Completed
+693,2025-12-16,Coorg,Karnataka,Nature,France,2,6,4 Star,Cab,Nature Escape,56286.56,3.9,Completed
+694,2025-02-07,Munnar,Kerala,Nature,Germany,4,4,5 Star,Train,Couples Retreat,68261.84,4.4,Completed
+695,2025-12-09,Coorg,Karnataka,Nature,USA,2,2,4 Star,Car,Heritage Tour,26465.0,3.8,Completed
+696,2026-03-14,Kochi,Kerala,Cultural,Singapore,4,6,4 Star,Car,Weekend Escape,67615.69,4.5,Completed
+697,2025-12-03,Manali,Himachal Pradesh,Adventure,Canada,5,9,Budget,Bus,Family Holiday,95931.87,4.6,Completed
+698,2025-11-09,Manali,Himachal Pradesh,Adventure,Australia,2,10,3 Star,Cab,Couples Retreat,40568.96,4.4,Confirmed
+699,2026-01-13,Rishikesh,Uttarakhand,Adventure,India,4,9,3 Star,Car,Family Holiday,112744.83,3.9,Confirmed
+700,2026-03-24,Pondicherry,Puducherry,Beach,Singapore,1,6,3 Star,Car,Nature Escape,22645.94,4.4,Confirmed
+701,2025-01-12,Jaipur,Rajasthan,Heritage,Japan,2,5,Budget,Car,Nature Escape,50137.35,3.8,Completed
+702,2026-06-10,Udaipur,Rajasthan,Heritage,Japan,1,10,Budget,Train,Family Holiday,53314.0,4.6,Completed
+703,2026-01-13,Munnar,Kerala,Nature,UAE,1,9,5 Star,Train,Adventure Trip,23678.56,3.6,Completed
+704,2025-04-22,Coorg,Karnataka,Nature,UK,1,10,5 Star,Flight,Family Holiday,30818.4,4.6,Completed
+705,2025-07-08,Manali,Himachal Pradesh,Adventure,Canada,1,8,Budget,Bus,Heritage Tour,17725.02,4.7,Cancelled
+706,2025-05-18,Kochi,Kerala,Cultural,France,6,2,5 Star,Train,Family Holiday,82844.7,4.1,Confirmed
+707,2026-04-06,Rishikesh,Uttarakhand,Adventure,Japan,3,10,3 Star,Cab,Nature Escape,117049.96,4.6,Completed
+708,2026-01-20,Munnar,Kerala,Nature,Canada,3,10,5 Star,Car,Adventure Trip,119696.06,4.4,Completed
+709,2026-03-12,Manali,Himachal Pradesh,Adventure,UAE,5,3,5 Star,Train,Family Holiday,107461.38,3.5,Completed
+710,2025-04-13,Ooty,Tamil Nadu,Hill Station,Germany,2,5,Resort,Bus,Nature Escape,58523.05,4.6,Completed
+711,2025-07-16,Kochi,Kerala,Cultural,Canada,1,6,Budget,Flight,Heritage Tour,27548.97,4.1,Completed
+712,2026-03-01,Goa,Goa,Beach,France,4,6,5 Star,Train,Adventure Trip,58659.05,4.4,Completed
+713,2025-05-11,Pondicherry,Puducherry,Beach,France,4,2,Budget,Cab,Nature Escape,62928.0,4.8,Confirmed
+714,2025-06-27,Ooty,Tamil Nadu,Hill Station,Japan,1,3,4 Star,Flight,Heritage Tour,15360.0,4.9,Completed
+715,2025-01-22,Manali,Himachal Pradesh,Adventure,UK,4,6,3 Star,Train,Nature Escape,72866.19,4.5,Confirmed
+716,2026-05-21,Goa,Goa,Beach,UAE,6,5,5 Star,Flight,Heritage Tour,102784.82,4.9,Completed
+717,2025-08-12,Munnar,Kerala,Nature,Germany,1,1,5 Star,Flight,Weekend Escape,7477.22,4.2,Confirmed
+718,2025-06-24,Jaipur,Rajasthan,Heritage,India,4,9,Budget,Bus,Couples Retreat,127499.67,4.1,Completed
+719,2026-06-13,Kochi,Kerala,Cultural,USA,2,4,Budget,Bus,Couples Retreat,28925.49,4.2,Completed
+720,2025-03-22,Manali,Himachal Pradesh,Adventure,Japan,3,1,Budget,Train,Adventure Trip,32504.05,4.7,Cancelled
+721,2025-04-23,Coorg,Karnataka,Nature,Japan,2,5,Budget,Cab,Couples Retreat,60317.01,3.9,Completed
+722,2025-11-06,Udaipur,Rajasthan,Heritage,France,1,6,Budget,Cab,Heritage Tour,23785.44,3.4,Completed
+723,2026-05-19,Ooty,Tamil Nadu,Hill Station,Germany,1,10,Budget,Bus,Family Holiday,44598.16,4.3,Completed
+724,2025-10-07,Jaipur,Rajasthan,Heritage,UAE,2,1,3 Star,Cab,Adventure Trip,19527.56,4.3,Completed
+725,2025-02-17,Kochi,Kerala,Cultural,Australia,1,4,4 Star,Bus,Family Holiday,11864.78,5.0,Confirmed
+726,2025-08-20,Kochi,Kerala,Cultural,Canada,3,3,5 Star,Flight,Weekend Escape,46805.26,3.8,Completed
+727,2025-05-07,Jaipur,Rajasthan,Heritage,USA,2,10,Resort,Train,Family Holiday,70661.85,4.1,Completed
+728,2026-02-06,Rishikesh,Uttarakhand,Adventure,Germany,3,5,Resort,Car,Nature Escape,61950.69,4.4,Completed
+729,2025-12-13,Kochi,Kerala,Cultural,UK,4,8,5 Star,Cab,Heritage Tour,150500.59,4.6,Completed
+730,2026-01-14,Goa,Goa,Beach,Australia,5,9,3 Star,Cab,Nature Escape,118807.25,3.7,Completed
+731,2025-10-13,Coorg,Karnataka,Nature,Japan,4,2,4 Star,Train,Nature Escape,40972.02,4.4,Completed
+732,2025-12-16,Kochi,Kerala,Cultural,UAE,4,6,5 Star,Car,Couples Retreat,110680.98,4.4,Completed
+733,2025-02-04,Kochi,Kerala,Cultural,Japan,2,4,5 Star,Bus,Nature Escape,38063.35,4.1,Completed
+734,2026-01-14,Munnar,Kerala,Nature,Germany,4,1,4 Star,Flight,Nature Escape,32083.63,4.1,Completed
+735,2025-05-09,Munnar,Kerala,Nature,Japan,5,3,Budget,Flight,Weekend Escape,104532.21,3.9,Confirmed
+736,2026-05-07,Kochi,Kerala,Cultural,UK,4,5,4 Star,Cab,Heritage Tour,91890.03,4.7,Completed
+737,2026-02-25,Goa,Goa,Beach,USA,6,10,4 Star,Train,Couples Retreat,278217.51,4.1,Cancelled
+738,2026-04-01,Goa,Goa,Beach,USA,6,7,Resort,Car,Nature Escape,135687.24,4.5,Completed
+739,2025-06-23,Jaipur,Rajasthan,Heritage,Germany,4,3,Resort,Flight,Adventure Trip,57081.79,4.5,Confirmed
+740,2025-07-09,Kochi,Kerala,Cultural,France,6,10,Budget,Train,Weekend Escape,173509.25,5.0,Completed
+741,2025-11-01,Rishikesh,Uttarakhand,Adventure,Germany,4,8,Budget,Flight,Weekend Escape,115118.1,4.0,Completed
+742,2025-07-17,Ooty,Tamil Nadu,Hill Station,UAE,5,9,4 Star,Car,Adventure Trip,201556.66,3.8,Completed
+743,2025-11-11,Munnar,Kerala,Nature,Singapore,6,7,5 Star,Cab,Weekend Escape,239022.82,4.4,Confirmed
+744,2026-01-24,Jaipur,Rajasthan,Heritage,India,5,2,Resort,Bus,Nature Escape,63103.16,4.3,Completed
+745,2026-04-17,Kochi,Kerala,Cultural,Germany,1,6,Budget,Bus,Weekend Escape,34443.65,4.2,Completed
+746,2025-03-12,Kochi,Kerala,Cultural,France,6,2,5 Star,Bus,Heritage Tour,51655.82,4.1,Completed
+747,2026-05-02,Jaipur,Rajasthan,Heritage,France,1,5,Resort,Car,Family Holiday,31167.66,3.9,Completed
+748,2025-06-25,Goa,Goa,Beach,USA,4,1,3 Star,Bus,Adventure Trip,35675.44,4.4,Completed
+749,2026-04-22,Goa,Goa,Beach,UK,5,8,Budget,Bus,Family Holiday,210428.69,3.9,Completed
+750,2026-01-21,Coorg,Karnataka,Nature,UAE,2,4,4 Star,Flight,Couples Retreat,21679.41,4.0,Completed
+751,2025-07-24,Goa,Goa,Beach,Japan,3,3,4 Star,Car,Heritage Tour,49595.7,4.1,Completed
+752,2026-02-11,Udaipur,Rajasthan,Heritage,UK,5,10,Resort,Train,Weekend Escape,165721.18,4.2,Completed
+753,2025-05-27,Manali,Himachal Pradesh,Adventure,Germany,4,8,3 Star,Cab,Couples Retreat,94491.94,4.5,Completed
+754,2025-10-17,Goa,Goa,Beach,Australia,6,10,5 Star,Train,Adventure Trip,203262.46,3.8,Completed
+755,2025-11-05,Munnar,Kerala,Nature,Germany,6,1,3 Star,Car,Nature Escape,86186.24,4.0,Cancelled
+756,2026-06-13,Udaipur,Rajasthan,Heritage,UAE,6,8,4 Star,Car,Adventure Trip,134917.53,3.7,Completed
+757,2025-07-23,Coorg,Karnataka,Nature,UAE,1,3,4 Star,Cab,Weekend Escape,20869.9,4.1,Completed
+758,2026-04-10,Jaipur,Rajasthan,Heritage,Germany,2,4,Budget,Bus,Nature Escape,39110.68,4.4,Confirmed
+759,2025-05-13,Kochi,Kerala,Cultural,UK,1,2,4 Star,Car,Family Holiday,12589.8,4.0,Completed
+760,2025-05-21,Kochi,Kerala,Cultural,Germany,1,2,3 Star,Car,Adventure Trip,13062.38,4.3,Completed
+761,2026-01-25,Goa,Goa,Beach,France,6,7,4 Star,Car,Couples Retreat,87112.45,4.7,Confirmed
+762,2025-08-01,Rishikesh,Uttarakhand,Adventure,Japan,5,8,4 Star,Flight,Heritage Tour,114360.96,4.7,Completed
+763,2026-02-10,Rishikesh,Uttarakhand,Adventure,UK,1,6,Budget,Cab,Family Holiday,24665.86,3.8,Confirmed
+764,2026-05-16,Goa,Goa,Beach,Canada,5,9,Budget,Train,Nature Escape,201276.12,4.8,Completed
+765,2025-06-01,Coorg,Karnataka,Nature,France,3,2,Budget,Train,Heritage Tour,26475.52,3.7,Completed
+766,2025-04-17,Manali,Himachal Pradesh,Adventure,Singapore,5,3,5 Star,Flight,Family Holiday,91339.32,4.1,Completed
+767,2025-10-22,Coorg,Karnataka,Nature,France,2,10,5 Star,Bus,Heritage Tour,102949.41,4.0,Completed
+768,2025-02-08,Ooty,Tamil Nadu,Hill Station,Germany,2,5,3 Star,Train,Heritage Tour,46518.29,4.1,Completed
+769,2026-02-03,Coorg,Karnataka,Nature,Australia,3,7,3 Star,Car,Adventure Trip,51276.91,3.8,Completed
+770,2025-03-21,Manali,Himachal Pradesh,Adventure,Germany,6,6,Resort,Cab,Heritage Tour,129835.5,4.6,Completed
+771,2026-02-13,Ooty,Tamil Nadu,Hill Station,Japan,2,2,4 Star,Flight,Heritage Tour,23154.16,4.8,Completed
+772,2025-11-25,Manali,Himachal Pradesh,Adventure,UK,2,5,Budget,Flight,Adventure Trip,52203.42,4.6,Cancelled
+773,2025-04-06,Coorg,Karnataka,Nature,Australia,5,8,Budget,Cab,Couples Retreat,188730.45,3.9,Confirmed
+774,2025-06-11,Kochi,Kerala,Cultural,UK,3,9,Resort,Cab,Adventure Trip,87603.85,4.2,Completed
+775,2026-05-23,Jaipur,Rajasthan,Heritage,UK,2,7,Resort,Bus,Weekend Escape,73469.2,3.9,Completed
+776,2026-02-23,Pondicherry,Puducherry,Beach,UK,4,6,5 Star,Cab,Couples Retreat,80679.32,4.8,Confirmed
+777,2025-08-10,Goa,Goa,Beach,Australia,4,6,Budget,Flight,Weekend Escape,128778.32,4.4,Completed
+778,2026-06-16,Ooty,Tamil Nadu,Hill Station,UAE,6,9,3 Star,Car,Adventure Trip,225365.41,4.5,Confirmed
+779,2025-04-13,Ooty,Tamil Nadu,Hill Station,Japan,2,1,5 Star,Cab,Nature Escape,28634.11,3.9,Cancelled
+780,2026-05-22,Rishikesh,Uttarakhand,Adventure,India,5,8,3 Star,Cab,Family Holiday,108678.85,3.6,Completed
+781,2025-12-02,Kochi,Kerala,Cultural,France,4,3,4 Star,Flight,Couples Retreat,70003.94,3.7,Completed
+782,2025-10-16,Manali,Himachal Pradesh,Adventure,Australia,2,1,Resort,Car,Family Holiday,30763.97,4.2,Cancelled
+783,2026-05-27,Ooty,Tamil Nadu,Hill Station,France,5,8,Budget,Bus,Weekend Escape,156402.84,4.3,Confirmed
+784,2025-06-13,Udaipur,Rajasthan,Heritage,India,1,7,5 Star,Train,Weekend Escape,31307.63,4.4,Completed
+785,2026-04-01,Jaipur,Rajasthan,Heritage,Australia,2,8,5 Star,Bus,Couples Retreat,60896.69,4.1,Cancelled
+786,2026-03-06,Jaipur,Rajasthan,Heritage,Singapore,6,7,Budget,Bus,Nature Escape,112807.36,4.3,Completed
+787,2026-01-14,Udaipur,Rajasthan,Heritage,India,2,4,5 Star,Bus,Weekend Escape,36984.64,4.5,Completed
+788,2026-01-17,Kochi,Kerala,Cultural,UK,1,2,Budget,Train,Family Holiday,8343.09,3.8,Completed
+789,2025-02-22,Udaipur,Rajasthan,Heritage,UAE,5,1,5 Star,Car,Couples Retreat,31962.26,3.9,Completed
+790,2025-06-08,Manali,Himachal Pradesh,Adventure,USA,3,4,5 Star,Train,Adventure Trip,71690.87,4.6,Completed
+791,2026-05-20,Jaipur,Rajasthan,Heritage,Germany,5,3,3 Star,Flight,Family Holiday,66993.01,4.4,Completed
+792,2025-07-03,Ooty,Tamil Nadu,Hill Station,UAE,4,9,4 Star,Train,Family Holiday,114579.37,4.5,Completed
+793,2025-02-10,Goa,Goa,Beach,Australia,3,5,4 Star,Car,Family Holiday,46146.01,4.5,Completed
+794,2025-07-10,Pondicherry,Puducherry,Beach,Australia,5,2,5 Star,Train,Couples Retreat,73505.39,4.4,Completed
+795,2025-04-22,Ooty,Tamil Nadu,Hill Station,Canada,2,6,4 Star,Bus,Nature Escape,58958.61,4.0,Completed
+796,2026-01-03,Goa,Goa,Beach,UK,6,10,Budget,Flight,Heritage Tour,312765.58,4.7,Confirmed
+797,2025-07-23,Pondicherry,Puducherry,Beach,USA,1,9,Resort,Bus,Couples Retreat,42790.82,4.5,Completed
+798,2025-07-14,Coorg,Karnataka,Nature,Australia,5,6,4 Star,Car,Nature Escape,158466.46,4.9,Completed
+799,2026-02-17,Coorg,Karnataka,Nature,India,2,10,4 Star,Train,Couples Retreat,47169.9,4.5,Completed
+800,2026-01-16,Coorg,Karnataka,Nature,Canada,1,3,5 Star,Cab,Adventure Trip,15742.09,3.8,Completed
+801,2025-07-06,Ooty,Tamil Nadu,Hill Station,UK,5,4,Resort,Flight,Heritage Tour,101084.24,4.0,Completed
+802,2025-09-18,Goa,Goa,Beach,UK,2,1,Resort,Train,Couples Retreat,12537.28,4.3,Confirmed
+803,2025-05-09,Ooty,Tamil Nadu,Hill Station,Germany,2,9,Budget,Flight,Nature Escape,59999.79,4.2,Completed
+804,2026-06-09,Jaipur,Rajasthan,Heritage,UAE,5,5,4 Star,Flight,Nature Escape,144631.65,4.5,Completed
+805,2025-09-06,Manali,Himachal Pradesh,Adventure,India,5,10,Budget,Car,Nature Escape,150143.08,4.1,Completed
+806,2025-11-09,Munnar,Kerala,Nature,Japan,6,7,3 Star,Car,Family Holiday,187754.96,4.2,Completed
+807,2026-04-03,Pondicherry,Puducherry,Beach,UK,4,3,3 Star,Train,Heritage Tour,72083.74,4.3,Completed
+808,2025-06-27,Kochi,Kerala,Cultural,Japan,2,2,3 Star,Flight,Adventure Trip,30802.07,4.3,Cancelled
+809,2025-04-24,Coorg,Karnataka,Nature,UK,6,1,Resort,Flight,Adventure Trip,41462.85,5.0,Confirmed
+810,2025-05-08,Goa,Goa,Beach,Australia,2,10,Budget,Flight,Weekend Escape,79283.07,4.4,Confirmed
+811,2025-03-07,Jaipur,Rajasthan,Heritage,France,5,8,3 Star,Bus,Couples Retreat,137499.62,4.1,Completed
+812,2025-01-27,Ooty,Tamil Nadu,Hill Station,USA,5,5,Budget,Cab,Adventure Trip,101195.55,4.3,Completed
+813,2026-02-13,Jaipur,Rajasthan,Heritage,Singapore,6,5,3 Star,Car,Nature Escape,179236.84,4.5,Completed
+814,2025-04-10,Udaipur,Rajasthan,Heritage,USA,5,6,Budget,Bus,Weekend Escape,160420.79,4.5,Completed
+815,2026-05-11,Rishikesh,Uttarakhand,Adventure,UK,6,7,3 Star,Bus,Heritage Tour,193713.03,5.0,Completed
+816,2025-09-26,Goa,Goa,Beach,India,2,3,4 Star,Train,Adventure Trip,36450.95,4.9,Cancelled
+817,2025-03-04,Rishikesh,Uttarakhand,Adventure,UAE,6,5,3 Star,Flight,Couples Retreat,155836.31,4.1,Completed
+818,2026-02-20,Udaipur,Rajasthan,Heritage,UK,6,4,5 Star,Car,Heritage Tour,115227.58,4.6,Completed
+819,2025-08-13,Goa,Goa,Beach,Japan,6,7,Resort,Cab,Nature Escape,186393.98,4.7,Completed
+820,2025-01-12,Coorg,Karnataka,Nature,France,2,2,Budget,Bus,Couples Retreat,36841.15,4.5,Confirmed
+821,2025-10-15,Jaipur,Rajasthan,Heritage,Canada,4,4,3 Star,Train,Weekend Escape,73851.41,4.3,Completed
+822,2026-02-12,Ooty,Tamil Nadu,Hill Station,USA,6,10,Budget,Car,Heritage Tour,252779.6,4.2,Completed
+823,2025-03-08,Goa,Goa,Beach,India,5,7,3 Star,Train,Adventure Trip,171163.23,4.2,Completed
+824,2025-11-15,Ooty,Tamil Nadu,Hill Station,Australia,1,3,Budget,Flight,Heritage Tour,18287.53,4.0,Completed
+825,2026-02-22,Pondicherry,Puducherry,Beach,Canada,6,5,Resort,Cab,Couples Retreat,144192.82,4.9,Completed
+826,2025-05-24,Munnar,Kerala,Nature,UAE,5,1,3 Star,Car,Family Holiday,77494.53,5.0,Completed
+827,2025-03-27,Pondicherry,Puducherry,Beach,France,3,7,5 Star,Train,Weekend Escape,103625.85,4.4,Completed
+828,2025-11-01,Munnar,Kerala,Nature,Australia,2,9,Budget,Flight,Family Holiday,75155.25,4.5,Completed
+829,2026-06-07,Ooty,Tamil Nadu,Hill Station,Germany,3,2,Resort,Cab,Weekend Escape,48521.58,4.7,Confirmed
+830,2025-01-12,Manali,Himachal Pradesh,Adventure,UAE,5,4,4 Star,Car,Nature Escape,70931.36,4.4,Completed
+831,2025-11-14,Coorg,Karnataka,Nature,USA,5,3,Budget,Cab,Adventure Trip,95456.55,4.6,Completed
+832,2025-03-21,Goa,Goa,Beach,Germany,2,3,3 Star,Cab,Heritage Tour,42418.85,4.4,Completed
+833,2025-11-15,Jaipur,Rajasthan,Heritage,Singapore,3,6,Resort,Car,Weekend Escape,100331.73,4.2,Completed
+834,2025-03-05,Rishikesh,Uttarakhand,Adventure,France,1,1,3 Star,Bus,Heritage Tour,14106.85,4.5,Confirmed
+835,2026-04-04,Pondicherry,Puducherry,Beach,Singapore,2,5,3 Star,Flight,Couples Retreat,43149.59,4.9,Completed
+836,2026-04-09,Pondicherry,Puducherry,Beach,UK,1,10,5 Star,Flight,Couples Retreat,44960.07,4.6,Confirmed
+837,2025-05-15,Udaipur,Rajasthan,Heritage,Canada,5,6,4 Star,Flight,Nature Escape,113337.24,5.0,Completed
+838,2025-02-24,Munnar,Kerala,Nature,Canada,1,3,Budget,Bus,Adventure Trip,12422.81,3.5,Completed
+839,2026-01-28,Pondicherry,Puducherry,Beach,USA,3,8,5 Star,Cab,Adventure Trip,56029.77,5.0,Completed
+840,2026-02-07,Kochi,Kerala,Cultural,Singapore,1,6,4 Star,Cab,Adventure Trip,21773.19,5.0,Completed
+841,2026-03-02,Coorg,Karnataka,Nature,UK,4,3,3 Star,Bus,Heritage Tour,52289.09,3.7,Completed
+842,2026-02-16,Munnar,Kerala,Nature,India,2,1,5 Star,Bus,Couples Retreat,14780.9,5.0,Completed
+843,2026-01-03,Manali,Himachal Pradesh,Adventure,France,4,9,3 Star,Bus,Family Holiday,151262.35,4.6,Completed
+844,2025-06-07,Udaipur,Rajasthan,Heritage,UAE,4,8,Resort,Train,Nature Escape,128964.17,4.1,Completed
+845,2025-01-18,Rishikesh,Uttarakhand,Adventure,Germany,1,10,Resort,Train,Couples Retreat,43093.54,4.3,Completed
+846,2025-01-05,Pondicherry,Puducherry,Beach,UK,4,6,Budget,Car,Couples Retreat,82715.5,3.6,Completed
+847,2025-05-21,Pondicherry,Puducherry,Beach,Japan,1,1,3 Star,Train,Adventure Trip,13432.32,4.1,Completed
+848,2025-07-22,Rishikesh,Uttarakhand,Adventure,India,3,6,Budget,Bus,Couples Retreat,83132.93,4.2,Completed
+849,2026-03-14,Kochi,Kerala,Cultural,Singapore,3,9,5 Star,Cab,Couples Retreat,61354.78,4.1,Completed
+850,2026-06-14,Kochi,Kerala,Cultural,Australia,6,7,4 Star,Cab,Weekend Escape,237957.64,4.5,Completed
+851,2025-01-20,Kochi,Kerala,Cultural,USA,4,10,Resort,Flight,Nature Escape,139501.52,4.7,Completed
+852,2025-08-25,Pondicherry,Puducherry,Beach,Canada,4,2,3 Star,Car,Weekend Escape,60041.29,4.4,Completed
+853,2026-01-01,Udaipur,Rajasthan,Heritage,Germany,5,5,4 Star,Bus,Couples Retreat,144987.27,4.1,Confirmed
+854,2026-02-02,Ooty,Tamil Nadu,Hill Station,India,2,6,Resort,Cab,Couples Retreat,51364.75,4.5,Cancelled
+855,2025-08-18,Kochi,Kerala,Cultural,Germany,5,7,Budget,Cab,Adventure Trip,106170.93,4.6,Confirmed
+856,2026-05-06,Kochi,Kerala,Cultural,Germany,1,3,Resort,Flight,Nature Escape,15878.35,4.3,Completed
+857,2025-09-27,Coorg,Karnataka,Nature,UK,3,4,Budget,Flight,Weekend Escape,58034.15,4.3,Completed
+858,2025-03-19,Kochi,Kerala,Cultural,India,6,3,5 Star,Bus,Family Holiday,104075.35,4.3,Completed
+859,2026-06-27,Munnar,Kerala,Nature,UAE,3,1,4 Star,Flight,Family Holiday,36249.34,4.2,Completed
+860,2025-04-04,Jaipur,Rajasthan,Heritage,Australia,3,3,Budget,Flight,Adventure Trip,67658.85,4.3,Completed
+861,2025-04-16,Ooty,Tamil Nadu,Hill Station,UAE,1,8,Budget,Train,Nature Escape,31668.48,4.1,Completed
+862,2025-10-01,Jaipur,Rajasthan,Heritage,Japan,6,10,Budget,Flight,Couples Retreat,296627.71,4.0,Completed
+863,2026-06-01,Jaipur,Rajasthan,Heritage,Canada,6,5,Budget,Train,Heritage Tour,66657.59,4.1,Confirmed
+864,2025-04-07,Ooty,Tamil Nadu,Hill Station,Singapore,2,4,Budget,Train,Couples Retreat,27717.17,4.3,Completed
+865,2026-06-21,Manali,Himachal Pradesh,Adventure,France,6,8,5 Star,Cab,Adventure Trip,224918.33,4.6,Completed
+866,2026-01-04,Rishikesh,Uttarakhand,Adventure,Japan,3,3,3 Star,Car,Adventure Trip,56153.31,5.0,Completed
+867,2025-11-20,Goa,Goa,Beach,Japan,4,7,3 Star,Cab,Couples Retreat,104030.25,4.6,Completed
+868,2026-05-09,Rishikesh,Uttarakhand,Adventure,UAE,3,10,Resort,Bus,Adventure Trip,59602.51,4.4,Completed
+869,2025-06-12,Munnar,Kerala,Nature,USA,2,6,4 Star,Train,Couples Retreat,33325.42,4.7,Completed
+870,2025-11-08,Coorg,Karnataka,Nature,USA,4,5,Resort,Train,Heritage Tour,73250.55,4.4,Completed
+871,2025-03-19,Kochi,Kerala,Cultural,UAE,3,6,3 Star,Train,Weekend Escape,88872.95,4.7,Completed
+872,2025-06-20,Udaipur,Rajasthan,Heritage,Japan,4,4,Resort,Flight,Couples Retreat,63831.46,4.3,Completed
+873,2025-01-15,Manali,Himachal Pradesh,Adventure,UK,4,1,Resort,Cab,Weekend Escape,23932.02,3.6,Completed
+874,2025-10-09,Udaipur,Rajasthan,Heritage,Singapore,4,2,Resort,Bus,Adventure Trip,52289.12,4.5,Completed
+875,2026-03-16,Goa,Goa,Beach,Singapore,5,2,Budget,Train,Weekend Escape,60509.0,5.0,Completed
+876,2025-08-06,Goa,Goa,Beach,Germany,6,6,Resort,Flight,Nature Escape,172139.97,4.3,Confirmed
+877,2025-04-02,Manali,Himachal Pradesh,Adventure,USA,3,6,Resort,Car,Couples Retreat,94496.6,4.2,Completed
+878,2025-05-25,Rishikesh,Uttarakhand,Adventure,UAE,6,8,Budget,Cab,Heritage Tour,144900.62,4.3,Completed
+879,2025-09-11,Pondicherry,Puducherry,Beach,Germany,1,5,4 Star,Flight,Couples Retreat,25738.63,4.0,Completed
+880,2025-03-03,Pondicherry,Puducherry,Beach,India,2,1,3 Star,Car,Adventure Trip,12629.43,3.8,Completed
+881,2026-05-17,Udaipur,Rajasthan,Heritage,Australia,6,8,3 Star,Cab,Weekend Escape,222216.46,3.7,Confirmed
+882,2026-05-07,Kochi,Kerala,Cultural,Germany,1,5,5 Star,Train,Nature Escape,22193.62,5.0,Completed
+883,2025-05-15,Goa,Goa,Beach,USA,2,1,5 Star,Train,Couples Retreat,21212.14,4.1,Confirmed
+884,2025-03-12,Kochi,Kerala,Cultural,Germany,2,7,Resort,Car,Heritage Tour,47185.38,4.4,Completed
+885,2025-02-21,Kochi,Kerala,Cultural,UAE,2,5,3 Star,Car,Family Holiday,46635.94,3.9,Completed
+886,2025-08-04,Munnar,Kerala,Nature,USA,1,1,Resort,Bus,Family Holiday,5943.14,4.4,Completed
+887,2026-01-13,Kochi,Kerala,Cultural,USA,2,5,5 Star,Train,Family Holiday,48910.14,4.2,Completed
+888,2025-04-06,Coorg,Karnataka,Nature,Japan,4,5,3 Star,Train,Couples Retreat,85826.72,4.8,Completed
+889,2026-03-05,Ooty,Tamil Nadu,Hill Station,France,4,6,Budget,Train,Couples Retreat,112625.16,4.4,Completed
+890,2026-04-19,Ooty,Tamil Nadu,Hill Station,France,2,8,Budget,Flight,Weekend Escape,71650.57,4.3,Confirmed
+891,2026-05-17,Jaipur,Rajasthan,Heritage,UK,1,2,4 Star,Bus,Adventure Trip,12029.35,3.8,Completed
+892,2026-03-01,Udaipur,Rajasthan,Heritage,Australia,6,6,Resort,Cab,Adventure Trip,117741.31,4.2,Completed
+893,2025-01-05,Kochi,Kerala,Cultural,Germany,6,3,4 Star,Car,Weekend Escape,96307.77,4.7,Completed
+894,2025-07-13,Goa,Goa,Beach,Australia,6,9,5 Star,Cab,Family Holiday,171347.16,4.3,Confirmed
+895,2026-01-19,Kochi,Kerala,Cultural,Australia,3,4,Budget,Cab,Heritage Tour,72153.05,4.8,Completed
+896,2025-12-10,Goa,Goa,Beach,India,4,3,5 Star,Train,Heritage Tour,84489.2,4.8,Completed
+897,2025-10-16,Manali,Himachal Pradesh,Adventure,USA,3,1,5 Star,Flight,Family Holiday,32200.67,4.7,Completed
+898,2025-01-02,Manali,Himachal Pradesh,Adventure,UK,3,5,Resort,Cab,Family Holiday,89741.31,4.5,Completed
+899,2025-07-14,Rishikesh,Uttarakhand,Adventure,USA,3,4,Budget,Car,Couples Retreat,52959.03,4.1,Confirmed
+900,2025-09-10,Rishikesh,Uttarakhand,Adventure,Australia,2,10,5 Star,Bus,Heritage Tour,55844.1,4.6,Completed
+901,2026-02-18,Munnar,Kerala,Nature,Australia,3,2,4 Star,Cab,Nature Escape,31323.38,4.5,Completed
+902,2026-05-15,Udaipur,Rajasthan,Heritage,Canada,6,6,5 Star,Bus,Adventure Trip,167462.29,3.6,Completed
+903,2026-06-01,Kochi,Kerala,Cultural,USA,2,10,4 Star,Train,Heritage Tour,65847.25,3.9,Completed
+904,2026-01-05,Kochi,Kerala,Cultural,India,4,9,5 Star,Flight,Weekend Escape,98129.44,4.2,Completed
+905,2025-11-20,Goa,Goa,Beach,Australia,5,8,4 Star,Flight,Weekend Escape,185095.52,4.3,Completed
+906,2025-05-18,Pondicherry,Puducherry,Beach,UK,2,3,4 Star,Bus,Nature Escape,32127.53,4.2,Completed
+907,2025-07-04,Goa,Goa,Beach,India,2,10,Budget,Cab,Weekend Escape,50604.86,4.8,Completed
+908,2025-04-10,Kochi,Kerala,Cultural,France,2,4,Resort,Bus,Heritage Tour,48069.91,4.4,Completed
+909,2026-02-05,Ooty,Tamil Nadu,Hill Station,UK,2,4,3 Star,Cab,Nature Escape,37277.65,4.0,Completed
+910,2026-04-12,Manali,Himachal Pradesh,Adventure,UAE,4,2,5 Star,Car,Adventure Trip,38155.29,4.4,Completed
+911,2026-01-01,Rishikesh,Uttarakhand,Adventure,Australia,1,10,5 Star,Flight,Couples Retreat,48435.51,4.3,Cancelled
+912,2025-12-17,Coorg,Karnataka,Nature,Germany,3,9,5 Star,Cab,Weekend Escape,65352.73,4.0,Completed
+913,2025-11-15,Jaipur,Rajasthan,Heritage,Australia,6,5,5 Star,Flight,Nature Escape,152724.86,4.2,Completed
+914,2026-05-25,Coorg,Karnataka,Nature,Australia,2,6,Resort,Cab,Couples Retreat,57547.04,4.2,Completed
+915,2025-01-28,Jaipur,Rajasthan,Heritage,Germany,1,2,5 Star,Car,Couples Retreat,18896.78,4.6,Completed
+916,2025-06-24,Kochi,Kerala,Cultural,UAE,1,1,Resort,Bus,Weekend Escape,11379.22,3.8,Completed
+917,2025-12-20,Ooty,Tamil Nadu,Hill Station,UK,3,2,5 Star,Car,Family Holiday,50144.41,4.4,Completed
+918,2025-10-08,Munnar,Kerala,Nature,UK,4,9,3 Star,Flight,Heritage Tour,99478.0,4.6,Completed
+919,2025-02-26,Jaipur,Rajasthan,Heritage,India,3,7,Resort,Cab,Weekend Escape,77334.04,4.9,Completed
+920,2025-07-27,Munnar,Kerala,Nature,Japan,4,9,4 Star,Bus,Heritage Tour,184111.71,4.2,Confirmed
+921,2026-03-14,Kochi,Kerala,Cultural,USA,5,2,3 Star,Cab,Couples Retreat,55520.83,4.8,Completed
+922,2025-10-27,Manali,Himachal Pradesh,Adventure,UAE,6,6,Budget,Train,Couples Retreat,108280.68,4.5,Confirmed
+923,2026-05-10,Kochi,Kerala,Cultural,Japan,1,9,Budget,Cab,Adventure Trip,48082.5,4.3,Completed
+924,2025-07-11,Ooty,Tamil Nadu,Hill Station,UK,2,9,4 Star,Flight,Family Holiday,70771.43,4.3,Completed
+925,2025-02-12,Goa,Goa,Beach,UAE,5,10,Budget,Cab,Adventure Trip,231520.7,4.4,Completed
+926,2025-12-14,Pondicherry,Puducherry,Beach,Australia,2,1,Budget,Flight,Family Holiday,27416.45,4.4,Completed
+927,2025-01-18,Pondicherry,Puducherry,Beach,India,4,7,3 Star,Car,Nature Escape,91347.95,3.6,Cancelled
+928,2025-12-12,Munnar,Kerala,Nature,Singapore,4,1,3 Star,Train,Weekend Escape,33914.8,4.7,Completed
+929,2026-06-19,Ooty,Tamil Nadu,Hill Station,India,6,4,Budget,Flight,Weekend Escape,72325.58,4.7,Completed
+930,2025-08-10,Jaipur,Rajasthan,Heritage,Japan,4,8,Budget,Flight,Weekend Escape,99701.79,4.4,Completed
+931,2025-12-28,Munnar,Kerala,Nature,France,6,5,4 Star,Cab,Couples Retreat,148448.05,4.6,Completed
+932,2025-04-02,Udaipur,Rajasthan,Heritage,UAE,6,10,5 Star,Bus,Weekend Escape,146190.94,4.1,Cancelled
+933,2025-08-10,Coorg,Karnataka,Nature,Germany,1,6,3 Star,Flight,Family Holiday,29156.36,4.2,Completed
+934,2025-02-09,Manali,Himachal Pradesh,Adventure,Japan,4,5,Budget,Flight,Couples Retreat,102909.99,4.4,Completed
+935,2026-01-13,Pondicherry,Puducherry,Beach,India,2,4,5 Star,Train,Nature Escape,28744.72,4.2,Completed
+936,2025-01-20,Udaipur,Rajasthan,Heritage,Australia,5,4,Budget,Bus,Nature Escape,110385.64,4.8,Completed
+937,2025-02-26,Goa,Goa,Beach,Canada,4,5,Resort,Car,Adventure Trip,93388.05,4.1,Completed
+938,2025-08-05,Ooty,Tamil Nadu,Hill Station,Australia,6,5,Budget,Train,Heritage Tour,116974.51,4.3,Completed
+939,2025-09-12,Manali,Himachal Pradesh,Adventure,Australia,6,10,Budget,Flight,Couples Retreat,216868.56,4.3,Completed
+940,2026-03-01,Pondicherry,Puducherry,Beach,India,3,8,Resort,Train,Adventure Trip,71977.17,4.6,Completed
+941,2026-06-11,Goa,Goa,Beach,France,2,5,4 Star,Bus,Adventure Trip,35277.98,4.7,Completed
+942,2025-04-21,Ooty,Tamil Nadu,Hill Station,UK,6,9,5 Star,Cab,Couples Retreat,139528.93,4.8,Completed
+943,2025-09-09,Ooty,Tamil Nadu,Hill Station,Singapore,5,1,Resort,Train,Couples Retreat,47573.15,4.5,Completed
+944,2025-12-27,Kochi,Kerala,Cultural,USA,6,7,4 Star,Train,Weekend Escape,158397.56,4.4,Completed
+945,2026-02-21,Udaipur,Rajasthan,Heritage,France,3,10,Budget,Train,Couples Retreat,79970.16,4.4,Completed
+946,2025-11-17,Coorg,Karnataka,Nature,Japan,6,6,3 Star,Car,Heritage Tour,111725.28,4.3,Completed
+947,2025-03-03,Munnar,Kerala,Nature,Japan,5,10,Resort,Car,Heritage Tour,226149.18,4.2,Completed
+948,2026-05-17,Pondicherry,Puducherry,Beach,Singapore,3,4,Resort,Bus,Family Holiday,58718.45,4.3,Cancelled
+949,2025-08-15,Udaipur,Rajasthan,Heritage,USA,6,4,5 Star,Car,Couples Retreat,88538.49,4.7,Completed
+950,2025-08-15,Kochi,Kerala,Cultural,Germany,5,3,Resort,Train,Adventure Trip,95113.28,4.5,Completed
+951,2025-10-11,Udaipur,Rajasthan,Heritage,USA,1,7,5 Star,Cab,Family Holiday,29967.18,4.5,Confirmed
+952,2025-01-06,Goa,Goa,Beach,UAE,3,9,5 Star,Flight,Family Holiday,135294.48,3.5,Completed
+953,2025-06-03,Jaipur,Rajasthan,Heritage,Canada,5,7,5 Star,Bus,Family Holiday,129597.1,4.3,Confirmed
+954,2025-11-19,Rishikesh,Uttarakhand,Adventure,Japan,1,1,Budget,Bus,Adventure Trip,12811.96,4.2,Completed
+955,2026-02-10,Pondicherry,Puducherry,Beach,UK,6,3,Resort,Cab,Weekend Escape,54270.69,3.9,Completed
+956,2025-11-15,Jaipur,Rajasthan,Heritage,Canada,6,10,4 Star,Flight,Family Holiday,172351.53,4.0,Completed
+957,2026-05-19,Coorg,Karnataka,Nature,UAE,3,6,5 Star,Bus,Family Holiday,84826.42,5.0,Completed
+958,2026-02-17,Manali,Himachal Pradesh,Adventure,Japan,5,6,Budget,Bus,Couples Retreat,85643.11,4.1,Completed
+959,2025-08-06,Manali,Himachal Pradesh,Adventure,Australia,5,2,3 Star,Bus,Family Holiday,57654.27,4.1,Completed
+960,2025-02-18,Coorg,Karnataka,Nature,Germany,1,8,Budget,Bus,Family Holiday,29070.14,4.3,Completed
+961,2026-03-17,Jaipur,Rajasthan,Heritage,France,3,2,Budget,Car,Adventure Trip,29401.72,4.6,Completed
+962,2025-12-26,Goa,Goa,Beach,Germany,6,2,4 Star,Train,Heritage Tour,72194.0,4.6,Completed
+963,2025-03-23,Udaipur,Rajasthan,Heritage,India,4,2,Resort,Bus,Family Holiday,66526.49,4.4,Completed
+964,2025-01-08,Jaipur,Rajasthan,Heritage,Japan,4,4,3 Star,Bus,Adventure Trip,70855.74,4.3,Completed
+965,2025-10-05,Munnar,Kerala,Nature,USA,5,4,Budget,Car,Weekend Escape,98955.43,4.3,Completed
+966,2026-01-21,Rishikesh,Uttarakhand,Adventure,Germany,6,6,5 Star,Cab,Nature Escape,212369.36,4.2,Confirmed
+967,2025-10-22,Pondicherry,Puducherry,Beach,France,6,7,Resort,Bus,Heritage Tour,141283.98,4.9,Completed
+968,2025-10-14,Pondicherry,Puducherry,Beach,Singapore,2,7,Budget,Train,Adventure Trip,75317.99,4.9,Completed
+969,2026-01-23,Jaipur,Rajasthan,Heritage,France,4,10,5 Star,Train,Weekend Escape,119838.76,4.9,Completed
+970,2025-11-09,Udaipur,Rajasthan,Heritage,UAE,4,8,5 Star,Car,Couples Retreat,149671.02,3.9,Completed
+971,2025-11-21,Ooty,Tamil Nadu,Hill Station,Australia,4,7,3 Star,Cab,Family Holiday,121728.19,5.0,Completed
+972,2025-05-20,Coorg,Karnataka,Nature,India,6,1,5 Star,Flight,Nature Escape,52986.97,5.0,Completed
+973,2025-03-21,Ooty,Tamil Nadu,Hill Station,Canada,2,6,Resort,Train,Family Holiday,58685.76,4.3,Completed
+974,2025-12-11,Kochi,Kerala,Cultural,Germany,5,4,Budget,Flight,Weekend Escape,110165.43,4.0,Completed
+975,2026-04-02,Jaipur,Rajasthan,Heritage,Australia,3,1,3 Star,Train,Weekend Escape,20141.54,4.5,Completed
+976,2025-09-28,Goa,Goa,Beach,USA,1,9,5 Star,Flight,Weekend Escape,39419.26,3.8,Confirmed
+977,2025-04-24,Rishikesh,Uttarakhand,Adventure,UAE,2,10,4 Star,Bus,Adventure Trip,64090.26,4.3,Completed
+978,2026-04-13,Manali,Himachal Pradesh,Adventure,UAE,1,4,5 Star,Cab,Couples Retreat,22228.67,4.6,Completed
+979,2025-08-13,Ooty,Tamil Nadu,Hill Station,France,6,7,4 Star,Cab,Nature Escape,103963.69,4.7,Completed
+980,2025-12-16,Rishikesh,Uttarakhand,Adventure,USA,6,5,4 Star,Train,Nature Escape,149833.5,4.3,Completed
+981,2026-04-19,Munnar,Kerala,Nature,USA,2,7,Resort,Car,Heritage Tour,64575.74,4.4,Completed
+982,2025-10-24,Udaipur,Rajasthan,Heritage,UK,1,6,Resort,Cab,Adventure Trip,28819.22,5.0,Completed
+983,2026-06-26,Pondicherry,Puducherry,Beach,Canada,4,6,3 Star,Bus,Adventure Trip,112726.6,5.0,Completed
+984,2025-04-14,Goa,Goa,Beach,UAE,2,1,3 Star,Cab,Nature Escape,13835.52,3.4,Confirmed
+985,2025-04-02,Kochi,Kerala,Cultural,France,2,9,5 Star,Train,Nature Escape,83368.94,4.5,Cancelled
+986,2025-09-17,Udaipur,Rajasthan,Heritage,Japan,3,10,3 Star,Train,Couples Retreat,101666.88,4.4,Completed
+987,2025-12-17,Rishikesh,Uttarakhand,Adventure,Australia,4,8,3 Star,Bus,Nature Escape,152305.14,4.7,Confirmed
+988,2025-01-11,Kochi,Kerala,Cultural,UK,2,8,Budget,Flight,Couples Retreat,64213.17,4.7,Completed
+989,2026-03-11,Goa,Goa,Beach,India,5,8,Resort,Train,Weekend Escape,136514.85,4.4,Confirmed
+990,2025-09-10,Kochi,Kerala,Cultural,Japan,6,5,4 Star,Cab,Adventure Trip,170098.59,4.9,Completed
+991,2025-07-03,Rishikesh,Uttarakhand,Adventure,UK,1,4,4 Star,Train,Couples Retreat,16489.97,3.8,Completed
+992,2025-09-26,Rishikesh,Uttarakhand,Adventure,France,2,3,Budget,Train,Family Holiday,30591.5,4.3,Completed
+993,2025-06-16,Ooty,Tamil Nadu,Hill Station,Singapore,1,1,3 Star,Cab,Adventure Trip,10100.49,4.1,Completed
+994,2026-01-13,Kochi,Kerala,Cultural,France,3,5,Resort,Bus,Heritage Tour,50221.6,5.0,Completed
+995,2025-06-21,Manali,Himachal Pradesh,Adventure,UK,4,9,5 Star,Car,Nature Escape,167230.18,4.0,Completed
+996,2025-01-28,Udaipur,Rajasthan,Heritage,France,6,6,5 Star,Train,Heritage Tour,178720.14,4.2,Confirmed
+997,2026-01-12,Jaipur,Rajasthan,Heritage,India,2,8,4 Star,Cab,Family Holiday,34928.17,4.7,Completed
+998,2025-01-20,Manali,Himachal Pradesh,Adventure,India,6,5,5 Star,Car,Weekend Escape,182559.47,4.6,Completed
+999,2025-02-19,Ooty,Tamil Nadu,Hill Station,France,5,8,5 Star,Train,Adventure Trip,185013.64,4.2,Completed
+1000,2025-05-23,Jaipur,Rajasthan,Heritage,UK,1,7,Budget,Flight,Adventure Trip,26324.34,4.3,Completed
